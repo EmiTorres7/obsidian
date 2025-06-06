@@ -1,6 +1,10 @@
 2025-06-04 23:30
 
-1844
+Tag: [[Nietzsche]]
+
+**1844**
+Friedrich Nietzsche (1844–1900) fue un **filósofo alemán**, crítico de la religión, la moral, la cultura occidental y la filosofía tradicional. **Es conocido por su estilo aforístico y provocador**, así como por ideas profundamente influyentes en la filosofía, la psicología, la literatura y el arte del siglo XX.
+
 Escribió sobre distintos temas:
 - música
 - religión
@@ -27,5 +31,45 @@ Pero después de la muerte de Dios es el ser humano el que se convierte en Dios,
 Este autor introdujo como ningún otro la cosmovisión.
 
 	cosmovisión (imagen o figura general de la existencia, realidad o mundo que una persona o sociedad o cultura se forman en una época determinada)
+
+
+Una de sus obras más poéticas y profundas. 
+Aquí Nietzsche expresa su filosofía a través del personaje de **Zaratustra**, un sabio que baja de las montañas para compartir su visión del mundo. No es un tratado sistemático, sino un **libro profético y simbólico** lleno de aforismos, imágenes y metáforas.
+
+**Temas clave**:
+
+- El Superhombre
+    
+- El Eterno Retorno
+    
+- Crítica a la religión y la moral
+    
+- La soledad del pensador
+
+
+##### AFORISMO
+		Un **aforismo** es una **frase breve, clara y contundente** que expresa una idea profunda, una observación filosófica o una verdad general. Su fuerza está en la **concentración del pensamiento en pocas palabras**.
+
+---
+### 📌 Características de un aforismo:
+
+- **Brevedad:** Son frases cortas, directas.
+    
+- **Profundidad:** En pocas palabras condensan una reflexión filosófica, moral o existencial.
+    
+- **Estilo provocador o poético:** Muchas veces sorprenden, incomodan o invitan a pensar.
+    
+- **Sentido abierto:** A menudo no explican, sino que **sugieren**.
+
+### 🧠 Ejemplos de aforismos de Nietzsche:
+
+> “Lo que no me mata, me hace más fuerte.”
+
+> “Dios ha muerto.”
+
+> “El hombre es una cuerda tendida entre el animal y el superhombre.”
+
+> “Quien con monstruos lucha, cuide de no convertirse en uno.”
+
 
 
