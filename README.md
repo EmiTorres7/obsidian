@@ -2,7 +2,11 @@
 
 https://www.youtube.com/watch?v=hSTy_BInQs8
 
+<<<<<<< HEAD
 **1. Raugh Notes:** 
+=======
+**1. Raugh Notes**: 
+>>>>>>> ab86b4495051d555ee150d9525edff2c67353f7c
 Here I jot down everything that is temporary, ideas I have, maybe reminders.
 It is like a notepad where you write down things you don't want to forget and, anything else you might need
 
@@ -50,4 +54,16 @@ Usa el plugin "Advanced URI" o "Juggl" si necesitas gestionar enlaces complejos 
 
 
 
+<<<<<<< HEAD
+=======
+📌#### Tips
+[[Nota A#^clave1]]
+Uso esto pero parece que lo tengo que poner 2 veces para que me lleve a esa parte específica del párrafo.
+
+
+
+
+
+
+>>>>>>> ab86b4495051d555ee150d9525edff2c67353f7c
 
