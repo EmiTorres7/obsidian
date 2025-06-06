@@ -1,4 +1,4 @@
-			    ### Obsidian: the king of learning tools ###
+# Obsidian: the king of learning tools
 
 https://www.youtube.com/watch?v=hSTy_BInQs8
 
@@ -6,10 +6,10 @@ https://www.youtube.com/watch?v=hSTy_BInQs8
 Here I jot down everything that is temporary, ideas I have, maybe reminders.
 It is like a notepad where you write down things you don't want to forget and, anything else you might need
 
--Reading things to look into: 
+- Reading things to look into: 
 here he keeps up a list of ideas that he want to research further
 
--writing log:
+- writing log:
 He also keep a track of he daily word count for he writing habit (llevar un registro diario de recuento de palabras
 para su hábito de escritura)
 
