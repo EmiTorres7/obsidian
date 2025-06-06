@@ -2,7 +2,7 @@
 
 https://www.youtube.com/watch?v=hSTy_BInQs8
 
-1. Raugh Notes: 
+**1. Raugh Notes:** 
 Here I jot down everything that is temporary, ideas I have, maybe reminders.
 It is like a notepad where you write down things you don't want to forget and, anything else you might need
 
@@ -14,7 +14,7 @@ He also keep a track of he daily word count for he writing habit (llevar un regi
 para su hábito de escritura)
 
 
-2. Source Material
+**2. Source Material**
 I store the insights from anything I consume, not just books, but also videos, articles, podcasts.
 
 
@@ -33,6 +33,13 @@ Desde la nota B, enlazas así:
 markdown
 Copy
 Edit
+
+
+📌 Tips
+
+[[Nota A#^clave1]]
+Uso esto pero parece que lo tengo que poner 2 veces para que me lleve a esa parte específica del párrafo.
+
 [[Nota A#^clave1]]
 Esto te lleva directamente a ese párrafo específico.
 
@@ -40,14 +47,6 @@ Esto te lleva directamente a ese párrafo específico.
 Para ver fácilmente los identificadores de bloque disponibles, puedes usar el comando "Copiar enlace al bloque" con clic derecho (si tienes la opción activa).
 
 Usa el plugin "Advanced URI" o "Juggl" si necesitas gestionar enlaces complejos entre muchas notas.
-
-
-
-[[Nota A#^clave1]]
-Uso esto pero parece que lo tengo que poner 2 veces para que me lleve a esa parte específica del párrafo.
-
-
-
 
 
 
