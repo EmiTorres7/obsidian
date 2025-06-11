@@ -54,16 +54,4 @@ Usa el plugin "Advanced URI" o "Juggl" si necesitas gestionar enlaces complejos 
 
 
 
-<<<<<<< HEAD
-=======
-📌#### Tips
-[[Nota A#^clave1]]
-Uso esto pero parece que lo tengo que poner 2 veces para que me lleve a esa parte específica del párrafo.
-
-
-
-
-
-
->>>>>>> ab86b4495051d555ee150d9525edff2c67353f7c
 

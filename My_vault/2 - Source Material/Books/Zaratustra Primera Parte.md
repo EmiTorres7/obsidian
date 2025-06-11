@@ -50,5 +50,30 @@ La “cátedra de la virtud” representa **la enseñanza de una moral domestica
 
 ##### **PAGE 34:** - *De los transmundanos*
 
+Los transmundanos son una figura crítica que representa a aquellos que creen en un mundo más allá de este: un "más allá" metafísico, religioso o espiritual que supuestamente da sentido y valor a nuestra existencia terrenal.
+
+Nietzsche critica:
+1. La **negación del mundo terrenal:** para él, los transmundanos desprecian la vida en la Tierra porque creen que hay un mundo superior, como el cielo cristiano o un reino, con esta creencia niegan la vida real, la experiencia concreta, el cuerpo y el presente.
+2. Suelen adoptar una **moral de renuncia al placer y promover el sufrimiento** en la Tierra como una vía para alcanzar la recompensa en otro mundo ideal. Niezsche ve eso como una moral de esclavos que sofoca la vitalidad humana.
+3. Creer en un más allá puede servir para **evitar la responsabilidad de vivir plenamente y crear valor en este mundo**.
+4. Suelen despreciar el cuerpo y los sentidos y valoran sólo "el alma" o la razón.
+
+#Quote : "El cuerpo es una gran razón, una multitud con un solo sentido, una guerra y una paz, un rebaño y un pastor. Herramienta de tu cuerpo es también tu pequeña razón, mi hermano, que tú llamas 'espíritu', un pequeño instrumento y juguete de tu gran razón."
+
+Nietzsche propone la idea de **superhombre** que sería un ideal humano que crea sus propios valores sin recurrir a un más allá.
+**Eterno Retorno: Afirmar la vida y amarla tal como es, con todos sus altibajos**
+Amor al destino, aceptación y afirmación de la vida en todas sus formas.
+
 ##### **PAGE 44:** - *Del árbol de la montaña*
+
+
+
+
+
+
+
+
+
+
+
 
