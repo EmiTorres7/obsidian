@@ -1,8 +1,8 @@
 {{date}} {{time}}
 
-Status:
+**Status:**
 
-Tags:
+**Tags:**
 
 ## {{Title}}
 
