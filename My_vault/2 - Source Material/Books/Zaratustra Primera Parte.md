@@ -3,7 +3,10 @@
 Tags:
 ##### **Reference:** [[Así habló Zaratustra]]
 
-
+- De las cátedras de la virtud
+- De los transmundanos
+- Del Árbol de la montaña
+- De las mil metas y la única meta
 ##### **PAGE 32:** - *De las cátedras de la virtud*
 
 #Quote : 
@@ -65,15 +68,45 @@ Nietzsche propone la idea de **superhombre** que sería un ideal humano que crea
 Amor al destino, aceptación y afirmación de la vida en todas sus formas.
 
 ##### **PAGE 44:** - *Del árbol de la montaña*
+Al ser humano le ocurre lo mismo que al árbol. Cuanto más desea elevarse hacia la altura y hacia la luz, tanto más vigorosamente tiende sus raíces hacia la tierra, hacia abajo, hacia lo oscuro, lo profundo, hacia el mal.
+
+---
+### 🌳 **El símbolo del árbol en la montaña**
+
+El árbol representa al **espíritu libre**, al individuo que decide elevarse por encima del rebaño (de la moral común, de las costumbres y valores heredados) y vivir según su voluntad. Pero al hacerlo, se enfrenta a:
+
+- **La soledad**: cuanto más alto crece el árbol, más solo está.
+    
+- **El viento**: las dificultades que vienen con una vida libre.
+    
+- **El abismo interior**: el vértigo existencial de no tener reglas externas que lo guíen.
+    
+
+Zaratustra ve en el joven **el germen del superhombre**, pero también sabe que **no todos resisten esa altura**. El crecimiento espiritual exige una fortaleza interior que no todos poseen todavía.
 
 
+#### **Page 57:** *-De las mil metas y de la única meta*
 
+Zaratustra comienza diciendo que los pueblos siempre han tenido **mil metas diferentes**, es decir, diferentes ideales, costumbres, y sentidos de lo bueno y lo malo. Cada sociedad, en cada época, ha creado su propio sistema de valores.
 
+Pero luego afirma que **todas esas metas eran proyecciones humanas**, no verdades absolutas. Fueron necesarias para unir a los pueblos, pero también **limitaban** al ser humano al imponerle normas externas.
 
+Zaratustra dice que ahora **ha llegado el momento de ir más allá de esas mil metas**, y buscar **una sola meta superior**: **el superhombre (Übermensch)**. Esta “única meta” no es una norma impuesta desde fuera, sino **el ideal del ser humano que se crea a sí mismo** y supera las limitaciones anteriores.
 
+Nietzsche plantea que **no existen valores universales**, sino que **cada cultura ha creado los suyos**. La moral no es algo dado por Dios o por la razón eterna, sino una construcción humana.
 
+#Quote 
+> “En torno a la invención del bien y del mal giró hasta ahora la rueda de este pueblo.”
 
+Nietzsche plantea que **no existen valores universales**, sino que **cada cultura ha creado los suyos**. La moral no es algo dado por Dios o por la razón eterna, sino una construcción humana.
 
+### **La única meta: el superhombre**
+
+Zaratustra propone reemplazar todas las metas colectivas por **una única meta verdaderamente digna**: el **superhombre**, el ser humano que se supera a sí mismo y crea sus propios valores.
+
+> “Mil metas hubo hasta ahora, pues mil pueblos hubo. Sólo falta aún el lazo que los una: aún no existe la humanidad.”
+
+Es decir, **la verdadera “humanidad” no ha llegado todavía**, porque el ser humano actual aún vive atado a valores pasados. La única meta digna sería **convertirse en puente hacia algo superior**.
 
 
 
