@@ -41,7 +41,6 @@ El asesinato de Albert no tiene sentido moral, pero sí funcional: es un mensaje
 #Quote 
 > “El tiempo se bifurca perpetuamente hacia innumerables futuros. En uno de ellos soy su enemigo.” #Borges 
 
-
 #### **Cuentos:**
 - Tlön, Uqbar, Orbis Tertius [[Ficciones#Tlön, Uqbar, Orbis Tertius]]
 

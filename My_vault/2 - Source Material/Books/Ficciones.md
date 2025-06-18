@@ -30,7 +30,7 @@ Cuentos de corte policial como **"La muerte y la brújula"**,
 Otros sobre libros imaginarios como **"Tlon, Uqbar, Orbis Tertius"**
 Muchos pertenecientes al género fantástico como **"Las ruinas circulares"** o **"El Sur"**
 
-### Tlön, Uqbar, Orbis Tertius
+## Tlön, Uqbar, Orbis Tertius
 [[Ficciones - El jardín de senderos que se bifurcan#**Cuentos **]]
 
 #Quote :
@@ -50,8 +50,7 @@ Lo que hace a Tlön tan inquietante es que **su lógica interna no se basa en nu
 - No creen en la materia como entidad permanente: todo es acto o percepción.
 - El tiempo no es lineal ni objetivo.
 - La causalidad no existe como en nuestra física.
-
-## 🎭 **Temas principales**
+### 🎭 **Temas principales**
 
 ##### 🔹 **La ficción como invasión de la realidad**
 El núcleo del cuento es la idea de que una invención puede terminar reemplazando el mundo real. Es una meditación sobre cómo **las ideas, los relatos y las ficciones tienen el poder de modelar la realidad.**
@@ -69,7 +68,7 @@ Borges imagina varias escuelas filosóficas ficticias que ridiculizan o extreman
 - El **idealismo extremo**: el mundo no existe fuera de la mente.  
 - La **negación del tiempo y del espacio** como entes objetivos.    
 - Una cultura que cree que **el universo es una serie de actos mentales colectivos.**  
-### 📚 Estructura del cuento
+#### 📚 Estructura del cuento
 1. **Inicio realista** (conversación con Bioy, enciclopedia misteriosa).
 2. **Investigación sobre Uqbar y su conexión con Tlön.**
 3. **Exposición enciclopédica de Tlön** (lenguaje, filosofía, física).
@@ -85,7 +84,7 @@ Borges mezcla influencias filosóficas, literarias y esotéricas:
 - **Sociedades secretas** → Como los Rosacruces o los masones.
 
 ---
-## 🧩 ¿Qué es el sofisma de las nueve monedas?
+#### 🧩 ¿Qué es el #sofisma de las nueve monedas?
 Es un **ejemplo ficticio inventado por Borges** para ilustrar la **lógica absurda pero coherente** del mundo de **Tlön**.
 
 Es un **problema filosófico** planteado en el mundo imaginario de Tlön. Aunque Borges no lo desarrolla en detalle, da a entender que se trata de una especie de paradoja **idealista** (inspirada en Berkeley), que pone en duda la **existencia continua de los objetos materiales** cuando no son percibidos.
@@ -94,31 +93,37 @@ Es un **problema filosófico** planteado en el mundo imaginario de Tlön. Aunque
 
 > “La literatura de Tlön abunda en casos de este tipo. Uno de los más notables es el de las nueve monedas de cobre que un tal Bioy Casares encontró una mañana en el cajón de su escritorio y que no estaban la víspera.”
 
-## 🧠 ¿Cuál es el razonamiento (el sofisma)?
+#### 🧠 ¿Cuál es el razonamiento (el #sofisma)?
 
 La lógica de Tlön, basada en el **idealismo extremo**, niega la existencia de la materia como sustancia permanente. Entonces, si las monedas **no fueron percibidas** el día anterior, **no existían**. Aparecen al ser percibidas, como si fueran nuevas.
 
 - En nuestro mundo: Las monedas estaban ahí todo el tiempo, aunque no las viéramos.
 - En Tlön: Si no fueron vistas o pensadas, **no existieron**.
 ---
-## 🧠 ¿Por qué es un sofisma?
+#### 🧠 ¿Por qué es un #sofisma?
 Porque es un razonamiento **formalmente válido dentro del sistema de Tlön**, pero **absurdo o falso** si lo analizamos desde la lógica de nuestro mundo.
 
-👉 Es **sofístico** porque parece lógico, pero **conduce a una conclusión que contradice el sentido común**.
-## 🎭 ¿Qué crítica encierra Borges?
+	👉 Es **sofístico** porque parece lógico, pero **conduce a una conclusión que contradice el sentido común**.
+#### 🎭 ¿Qué crítica encierra Borges?
 
 - Se burla de la **coherencia interna de sistemas filosóficos extremos**, como el idealismo, que niegan la realidad material independiente.   
 - Señala cómo un sistema bien armado puede defender cualquier cosa, aunque vaya contra la experiencia.
 - Muestra que un mundo puede ser completamente **ficticio pero funcional** si todos creen en él.
 
 **Conclusión:** 
-El sofisma de las nueve monedas de cobre es un ejemplo inventado por Borges para ilustrar cómo en Tlön —un mundo que niega la materia y cree que todo es idea o percepción— incluso objetos triviales como unas monedas **sólo existen cuando alguien las piensa o percibe**.
+El **sofisma de las nueve monedas de cobre** es un ejemplo inventado por Borges para ilustrar cómo en Tlön —un mundo que niega la materia y cree que todo es idea o percepción— incluso objetos triviales como unas monedas **sólo existen cuando alguien las piensa o percibe**.
 
 Es también un juego literario que nos invita a cuestionar lo que creemos real: ¿los objetos existen aunque nadie los vea? ¿la realidad depende de nuestra mente?
 
+--------------
+#### ¿Qué son los **hrönir**?
+Los **hrönir** son **objetos duplicados que aparecen como resultado del deseo, la memoria o la expectativa humana**. En la cosmología de Tlön, que es idealista (inspirada en Berkeley), **la realidad no es objetiva**, sino que depende de la percepción. Así, si una persona pierde un objeto y luego lo busca con la esperanza o la idea de encontrarlo, **puede aparecer un “hrön”**, una copia del objeto perdido.
 
+> _“Los hrönir no son simples duplicaciones: son, según parece, objetos que se generan cuando alguien busca algo que ha perdido. A veces, el objeto perdido reaparece, pero otras veces aparece una copia, un hrön. Es decir, una réplica originada por la expectativa o el recuerdo del objeto.”_
+#### ¿Qué implica esto?
+Borges usa este concepto para profundizar en la **naturaleza del conocimiento, la percepción y la realidad**. En Tlön, la frontera entre pensamiento y materia es borrosa. Los **hrönir** son una **metáfora del poder de la mente para dar forma al mundo**, y al mismo tiempo una crítica o parodia de los sistemas filosóficos idealistas que niegan la existencia objetiva del mundo exterior.
 
-
+---------------------
 
 
 

@@ -1,6 +1,6 @@
 2025-06-12 11:51
 
-Tags: #English #AI #machine_learning
+Tags: #English #AI #machine_learning #6_minutes_English 
 [[Opinion - Can AI have a mind of its own|Opinion - Can AI have a mind of its own]]
 
 ## 6 minutes English
