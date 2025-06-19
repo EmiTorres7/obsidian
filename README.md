@@ -51,5 +51,5 @@ Para ver fácilmente los identificadores de bloque disponibles, puedes usar el c
 Usa el plugin "Advanced URI" o "Juggl" si necesitas gestionar enlaces complejos entre muchas notas.
 
 
-
+- Si quiero referenciar: por ejemplo en la misma nota estoy hablando de algo que mucho más abajo lo detallo más, uso [[#]], con esto es como una especie de link que me lleva hacia el lugar donde está con más detalle explicado algo, también funciona hacerlo entre una nota y otra diferente... así voy haciendo conexiones con temas que pueden relacionarse y estar en distintas notas.
 
