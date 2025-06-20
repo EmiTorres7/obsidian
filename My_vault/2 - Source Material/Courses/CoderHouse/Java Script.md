@@ -12,15 +12,10 @@ No necesita ser **compilado** [[Java Script#**Diferencia entre un lenguaje inter
 ### ¿Para qué se usa JavaScript?
 
 - **Interactividad**: botones que responden al hacer clic, menús desplegables, formularios que validan datos sin recargar la página, etc.
-    
 - **Manipulación del DOM**: cambiar el contenido de una página web mientras se visualiza.
-    
 - **Animaciones**: mover elementos, mostrar u ocultar cosas, transiciones visuales.
-    
-- **Comunicación con servidores**: enviar y recibir datos sin recargar la página (AJAX o Fetch API).
-    
+- **Comunicación con servidores**: enviar y recibir datos sin recargar la página (AJAX o Fetch API)    
 - **Aplicaciones completas**: JavaScript permite crear aplicaciones web completas, incluso juegos o editores de texto, directamente en el navegador.
-    
 
 ### ¿Dónde se ejecuta?
 

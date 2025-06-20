@@ -41,8 +41,10 @@ El asesinato de Albert no tiene sentido moral, pero sí funcional: es un mensaje
 #Quote 
 > “El tiempo se bifurca perpetuamente hacia innumerables futuros. En uno de ellos soy su enemigo.” #Borges 
 
-#### **Cuentos:**
+### **Cuentos:**
 - Tlön, Uqbar, Orbis Tertius [[Ficciones#Tlön, Uqbar, Orbis Tertius]]
+- Pierre Menard, autor del Quijote [[Ficciones#**Pierre Menard, autor del Quijote**]]
+- Las ruinas circulares [[Ficciones#Las ruinas circulares]]
 
 
 
