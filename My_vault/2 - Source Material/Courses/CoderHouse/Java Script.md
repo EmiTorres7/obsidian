@@ -1,7 +1,8 @@
 2025-06-18 22:41
 
-**Tags:** 
+**Tags:** #NodeJS
 ###### **References:** 
+[[NODE JS]] [[GitHub]]
 
 **JavaScript** es un lenguaje de programación que se utiliza principalmente para hacer páginas web interactivas. Junto con **HTML** y **CSS**, forma la base del desarrollo web en el navegador.
 

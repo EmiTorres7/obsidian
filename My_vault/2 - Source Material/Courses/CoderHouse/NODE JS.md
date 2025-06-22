@@ -1,10 +1,9 @@
 2025-06-18 22:54
 
-**Status:**
-
-**Tags:**
+**Status:** #In_progress 
+**Tags:** #JS
 ##### **References**
-
+[[Java Script]] [[GitHub]]
 ## 🚀 ¿Qué es Node.js?
 
 **Node.js** es un **entorno de ejecución** que permite correr código JavaScript **fuera del navegador**, es decir, en el **servidor**.
