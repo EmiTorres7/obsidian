@@ -1,6 +1,6 @@
 2025-06-04 23:30
 
-Tag: [[Nietzsche]]
+Tag: [[Nietzsche]] [[Zaratustra Primera Parte]] [[Así habló Zaratustra]]
 
 **1844**
 Friedrich Nietzsche (1844–1900) fue un **filósofo alemán**, crítico de la religión, la moral, la cultura occidental y la filosofía tradicional. **Es conocido por su estilo aforístico y provocador**, así como por ideas profundamente influyentes en la filosofía, la psicología, la literatura y el arte del siglo XX.

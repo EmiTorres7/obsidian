@@ -8,6 +8,7 @@
 - Pierre Menard, autor del Quijote [[Ficciones - El jardín de senderos que se bifurcan#**Pierre Menard, autor del Quijote**]]
 - Las ruinas circulares [[Ficciones - El jardín de senderos que se bifurcan#Las ruinas circulares]]
 - La lotería en Babilonia [[#La lotería en Babilonia]]
+- Examen de la obra de Herbert Quain [[#Examen de la obra de Herbert Quain]]
 - El jardín de los senderos que se bifurcan [[#El jardín de senderos que se bifurcan]]
 ------
 ## Tlön, Uqbar, Orbis Tertius
@@ -164,8 +165,91 @@ El **giro final** (un clásico en Borges) ocurre cuando, años después, un ince
 ## La lotería en Babilonia
 [[#**Cuentos **]]
 
+Es una narración profundamente filosófica y alegórica que reflexiona sobre el **azar, el destino, el poder y la estructura social**.
+
+#### 📚 **Resumen del cuento**
+
+Un narrador anónimo cuenta cómo, en Babilonia, una simple lotería de premios monetarios fue evolucionando hasta convertirse en una institución totalitaria y secreta que regía todos los aspectos de la vida de los ciudadanos.
+
+1. **Etapa inicial**:  
+    La lotería es voluntaria y solo da premios en dinero.
+2. **Etapa intermedia**:  
+    Se agregan **castigos** como parte del sorteo (multas, prisión, mutilaciones). Ya no es solo cuestión de ganar, sino de arriesgar.
+3. **Etapa final**:  
+    La lotería se vuelve **obligatoria y secreta**. Se convierte en una institución omnipresente que decide cada aspecto de la vida: nacimientos, muertes, cargos, desgracias… incluso si una persona muere, puede ser "resultado de la lotería".
+#### 🧠 **Temas principales**
+
+- **El azar y el destino**:  
+    Borges explora la idea de que nuestras vidas pueden estar completamente regidas por el azar. La lotería se convierte en una metáfora del **destino arbitrario** que no se puede entender ni controlar.
+- **La ilusión del libre albedrío**:  
+    Los ciudadanos creen tener control o comprender el sistema, pero en realidad están atrapados en una red invisible de reglas impuestas por una **Compañía secreta** que organiza la lotería.
+
+- **El poder oculto**:  
+    La Compañía actúa desde las sombras, como una especie de gobierno o divinidad oculta. Nadie sabe si realmente existe o si todo es un mito… pero todos obedecen sus dictados.
+- **El absurdo y la fe ciega**:  
+    La historia critica cómo las sociedades aceptan estructuras absurdas sin cuestionarlas, e incluso llegan a venerarlas.
+#### ✍️ Frases clave (parafraseadas)
+
+- _“La lotería es una interpretación del azar, o una forma de controlarlo…”_  
+    → Refleja cómo la humanidad intenta darle sentido a lo incontrolable.
+    
+- _“La Compañía, con el tiempo, se volvió secreta. Sus agentes son indetectables…”_  
+    → Representa cómo el poder puede volverse invisible y total.
+#### 🎭 Interpretación simbólica
+
+- **La lotería**: representa el **destino** o la **vida misma**, imprevisible y arbitraria.
+- **La Compañía**: puede simbolizar a **Dios**, el **Estado**, o cualquier sistema que controla sin que podamos comprenderlo.
+- **Los ciudadanos**: muestran cómo los humanos **aceptan el caos** como si fuera orden cuando les conviene.
+#### 🧩 Reflexión final
+
+Borges propone un mundo donde el azar ha sido institucionalizado y llevado al extremo. Cuestiona si en nuestras propias sociedades no estamos también sometidos a sistemas cuyo sentido no entendemos pero que aceptamos sin resistencia.
 
 ---
+## Examen de la obra de Herbert Quain
+[[#**Cuentos **]]
+Presenta la forma de un ensayo o reseña literaria pero en realidad es un cuento de ficción crítica, ya que el personaje principal, Herbert Quain, es un autor ficticio inventado por Borges.
+
+**Narrador**: Un supuesto crítico literario que analiza la obra de un escritor irlandés llamado **Herbert Quain**, fallecido recientemente (en 1939).
+
+**Objetivo**: El texto imita el estilo de un ensayo académico que reseña las obras de un autor real, pero en realidad está creando un juego de espejos entre la literatura y la crítica, la creación y la interpretación.
+#### ✨ Temas centrales:
+
+- **La ficción como juego intelectual**.
+- **El papel del lector** como intérprete y creador de significado.
+- **El tiempo y la estructura narrativa no lineal**.
+- **La crítica literaria como forma de creación**.
+- **El artificio de la literatura**: Borges crea un autor ficticio para reflexionar sobre la creación literaria misma.
+#### 🎭 ¿Por qué es importante este cuento?
+
+Borges **usa un formato de ensayo para realizar una ficción**. Al **inventar obras inexistentes con gran detalle, juega con el límite entre la crítica y la creación**, cuestionando la autoridad del crítico y el estatus de la obra de arte.
+
+**Herbert Quain** se convierte en un símbolo del **escritor que desafía a su lector**, que quiere hacerle pensar, frustrarlo incluso, y obligarlo a enfrentarse con estructuras poco convencionales. Borges utiliza esta figura para reflexionar sobre su propia escritura y la literatura en general.
+
+#### 📚 Las obras de Quain (ficticias) mencionadas:
+
+1.  **The God of the Labyrinth (1933)**
+    - Una novela policial con un final decepcionante a propósito.
+    - Subvierte las expectativas del lector: el crimen no se resuelve satisfactoriamente.
+    - Busca frustrar al lector como parte del diseño literario.
+       
+2. **April March (1936)**
+    - La más famosa y experimental.
+    - Una novela estructurada de forma inversa (tipo árbol):
+        - Comienza con un capítulo final.
+        - Luego se divide en tres posibles capítulos anteriores, cada uno de los cuales se subdivide en otros tres, y así sucesivamente (estructura de árbol ternario).
+        - En total: **9 episodios**.
+    - Cada línea narrativa ofrece una posible explicación alternativa del capítulo final.
+
+3. **The Secret Mirror (1937)**    
+    - Una pieza de teatro que contiene otra obra dentro de sí, escrita por uno de los personajes.
+    - Los personajes principales imitan inconscientemente a los personajes de la obra dentro de la obra.
+    - Una reflexión sobre el arte como espejo del mundo y viceversa.
+
+4. **Statements (1939)**
+    - Una colección de relatos breves donde cada historia oculta una intención artística compleja.
+    - Se dice que una de las historias ("The Rose of Yesterday") está deliberadamente mal escrita, como un "juego irónico".
+
+----
 ## El jardín de senderos que se bifurcan
 [[#**Cuentos **]]
 

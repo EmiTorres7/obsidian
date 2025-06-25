@@ -1,0 +1,2 @@
+**References:**
+[[Nietzsche]] [[Friedrich Nietzche]]
