@@ -9,6 +9,7 @@
 - Las ruinas circulares [[Ficciones - El jardín de senderos que se bifurcan#Las ruinas circulares]]
 - La lotería en Babilonia [[#La lotería en Babilonia]]
 - Examen de la obra de Herbert Quain [[#Examen de la obra de Herbert Quain]]
+- La Biblioteca de Babel [[#La Biblioteca de Babel]]
 - El jardín de los senderos que se bifurcan [[#El jardín de senderos que se bifurcan]]
 ------
 ## Tlön, Uqbar, Orbis Tertius
@@ -250,14 +251,51 @@ Borges **usa un formato de ensayo para realizar una ficción**. Al **inventar ob
     - Se dice que una de las historias ("The Rose of Yesterday") está deliberadamente mal escrita, como un "juego irónico".
 
 ----
+## La Biblioteca de Babel
+[[#**Cuentos **]]
+
+Plantea ideas sobre el infinito, el conocimiento, el caos y el orden.
+##### 📖 **Resumen del cuento:**
+El narrador describe un universo que consiste enteramente en una biblioteca infinita compuesta por salas hexagonales interconectadas. 
+
+Cada una de las salas contiene estanterías llenas de libros que se caracterizan porque todos tienen el mismo formato:
+Cada uno de los muros de cada hexágono contiene 5 anaqueles, cada anaquel encierra 32 libros de formato uniforme, cada libro tiene 410 páginas, 40 líneas por página, cada renglón tiene 80 letras de color negro, con caracteres de un alfabeto limitado.
+
+***La idea clave:***
+La biblioteca contiene todos los libros posibles que se pueden escribir con esa combinación de letras, lo que implica:
+
+- Todos los libros con sentido imaginable.
+- Todos los errores posibles.
+- Todos los textos falsos, verdaderos, o casi verdaderos.
+- Una copia exacta del Quijote, otra con una sola coma diferente, y otra en la que todo está mal.
+
+El narrador explica cómo los habitantes de la biblioteca se vuelven locos buscando libros con sentido. Algunos creen en la existencia de un **"hombre libro"** o un **"bibliotecario mesiánico"** que conoce el volumen perfecto, o del catálogo total, pero nunca se encuentran.
+##### 🧠 **Ideas y temas principales**
+
+**1. Infinito:**
+La biblioteca sería una metáfora del universo, del conocimiento infinito. Aunque es finita en posibilidades porque el número de combinaciones es grande pero contado, aún así es prácticamente infinita para el ser humano.
+
+**2. Caos vs. orden:**
+El cuento plantea la tensión entre el deseo humano de encontrar orden y significado frente a un universo que parece caótico o indiferente.
+
+Borges sugiere que si todo está escrito en algún lugar, entonces el conocimiento absoluto es inalcanzable porque está enterrado entre infinitas falsedades o sinsentidos.
+Algunos habitantes pierden la fe, otros la mantienen. La búsqueda de sentido en lo absurdo es casi religiosa.
+
+##### 🧩 **Influencia y legado**
+
+"La Biblioteca de Babel" ha inspirado a filósofos, matemáticos, informáticos y escritores. En la era digital, **su visión se ha asociado con la Internet o bases de datos masivas donde todo está, pero el problema es** **encontrarlo**. 
+
+Incluso existe una **versión web que simula una biblioteca babeliana**: [libraryofbabel.info](https://libraryofbabel.info), donde puedes buscar cualquier frase… y la encontrarás en algún “libro” generado algorítmicamente.
+
+---
 ## El jardín de senderos que se bifurcan
 [[#**Cuentos **]]
 
 El narrador, **Yu Tsun**, es un espía chino al servicio del Imperio Alemán durante la Primera Guerra Mundial. Perseguido por el agente inglés **Richard Madden**, Yu Tsun debe comunicar urgentemente una información vital: el nombre de una ciudad que será bombardeada. Para ello, recurre a un método en apariencia absurdo: asesinar a un hombre llamado **Stephen Albert**, cuyo apellido (Albert) es la clave del mensaje secreto.
-
+#filosofía 
 Lo que parece una historia de espionaje se convierte pronto en una reflexión filosófica y literaria cuando Yu Tsun descubre que Stephen Albert es un sinólogo (especialista en cultura china) que ha estudiado profundamente a un ancestro de Yu Tsun: **Ts’ui Pên**, un erudito que abandonó su carrera política para escribir una novela y construir un laberinto. Todos consideraron su obra un fracaso, pero Albert revela que ambos proyectos eran uno solo: una novela-laberinto.
 
-Albert explica que Ts’ui Pên concibió una novela en la que el tiempo se bifurca constantemente. En lugar de una narrativa lineal, su libro propone que en cada momento de decisión, todas las posibilidades se realizan simultáneamente, en realidades paralelas. Este es el “jardín de senderos que se bifurcan”: **un laberinto metafísico del tiempo**.
+Albert explica que Ts’ui Pên **concibió una novela en la que el tiempo se bifurca constantemente**. En lugar de una narrativa lineal, su libro propone que **en cada momento de decisión, todas las posibilidades se realizan simultáneamente, en realidades paralelas**. Este es el “jardín de senderos que se bifurcan”: **un laberinto metafísico del tiempo**.
 
 - **El laberinto**: Es central en la obra de Borges. Aquí es temporal, no físico. La novela de Ts’ui Pên es un laberinto de tiempos que se ramifican.
     

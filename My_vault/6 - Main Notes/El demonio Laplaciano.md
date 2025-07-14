@@ -39,13 +39,11 @@ El demonio laplaciano representa la visión **determinista clásica** del univer
 
 ### 📌 En resumen:
 
-|Concepto|Según el demonio laplaciano|
-|---|---|
-|Determinismo|Absoluto: todo efecto tiene su causa|
-|Azar|Ilusión causada por ignorancia|
-|Conocimiento perfecto|Permite predecir pasado y futuro|
-|Visión del universo|Máquina perfectamente predecible|
-
-¿Quieres que lo conecte con temas como el libre albedrío o la física cuántica?
+| Concepto              | Según el demonio laplaciano          |
+| --------------------- | ------------------------------------ |
+| Determinismo          | Absoluto: todo efecto tiene su causa |
+| Azar                  | Ilusión causada por ignorancia       |
+| Conocimiento perfecto | Permite predecir pasado y futuro     |
+| Visión del universo   | Máquina perfectamente predecible     |
 
 

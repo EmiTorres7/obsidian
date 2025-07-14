@@ -1,11 +1,14 @@
-## Bioinformatics 101 | How to download RNA-Seq data from NCBI GEO | Bioinformatics for beginners
-
+### Bioinformatics 101 | 
+#### 1. How to download RNA-Seq data from NCBI GEO | Bioinformatics for beginners
 
 **Reference:**
-**https://www.youtube.com/watch?v=2RFYKTvCXHs&list=PLJefJsd1yfhbIhblS-85alaFsPdU00DaA&index=2
+- **https://www.youtube.com/watch?v=2RFYKTvCXHs&list=PLJefJsd1yfhbIhblS-85alaFsPdU00DaA&index=2
+- **Index:** [[4 - Indexes/RNA sequencing|RNA sequencing]]
 
+**Tags:** [[3 - Tags/RNA Sequencing|RNA Sequencing]]
 
-	Measuring Gene Expression
+----
+#### Measuring Gene Expression
 
 **There 2 maners:
 

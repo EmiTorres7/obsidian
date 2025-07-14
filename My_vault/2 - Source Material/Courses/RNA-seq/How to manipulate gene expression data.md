@@ -1,12 +1,16 @@
 ### Bioinformatics for beginners
-### How to manipulate gene expression data from NCBI GEO in R using dplyr
+### 2. How to manipulate gene expression data from NCBI GEO in R using dplyr
 
-**Reference:**
+**References:**
+- https://www.youtube.com/watch?v=4CkRXGWmAbU&list=PLJefJsd1yfhbIhblS-85alaFsPdU00DaA&index=2
+- https://www.bioconductor.org/packages/devel/bioc/vignettes/GEOquery/inst/doc/GEOquery.html
+- https://statisticsglobe.com/r-dplyr-join-inner-left-right-full-semi-anti
 
-https://www.youtube.com/watch?v=4CkRXGWmAbU&list=PLJefJsd1yfhbIhblS-85alaFsPdU00DaA&index=2
-https://www.bioconductor.org/packages/devel/bioc/vignettes/GEOquery/inst/doc/GEOquery.html
-https://statisticsglobe.com/r-dplyr-join-inner-left-right-full-semi-anti
+- **Index:** [[4 - Indexes/RNA sequencing|RNA sequencing]]
 
+**Tags:** [[3 - Tags/RNA Sequencing|RNA Sequencing]]
+
+----
    NCBI > GEO > GSE183947 (Pongo en el buscador con GEO DataSet en NIH)
 
 Series GSE183947		Query DataSets for GSE183947
