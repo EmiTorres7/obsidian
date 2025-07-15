@@ -5,7 +5,7 @@
 ## Machine Learning y Clasificación
 
 ###### **References:** 
-- [[CURSO MACHINE LEARNING]]
+- **Índice:** [[CURSO MACHINE LEARNING]]
 - [[#Sección 5 - Clasificación de los sistemas de Machine Learning]]
 
 - [[#1). En función de la manera en la que aprenden los algoritmos..]]

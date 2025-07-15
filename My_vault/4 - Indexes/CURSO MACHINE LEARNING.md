@@ -1,4 +1,4 @@
-Tags: #machine_learning #bioinformática #AI #aprendizajeSupervisado #aprendizajeNoSupervisado  #Regresión_lineal #Regresión_logística #funcion_deCoste_error #funcion_optimización 
+Tags: #machine_learning #bioinformática #AI #aprendizajeSupervisado #aprendizajeNoSupervisado  #Regresión_lineal #Regresión_logística #función/hipótesis  #funcion_deCoste_error #funcion_optimización #threshold #Función_sigmoide #algoritmo_clasificación 
 
 --------
 **ÍNDICE:**
@@ -8,7 +8,9 @@ Tags: #machine_learning #bioinformática #AI #aprendizajeSupervisado #aprendizaj
 
 **3. Sección 6: Regresión Lineal** [[Regresión Lineal Aprendizaje Supervisado]]
 **4. Sección 6: Regresión Logística** [[Regresión Logística - Aprendizaje Supervisado]]
-**5. Sección 6: Clasificación y Ciberseguridad**
-**6. Sección 6:** Caso Práctico
+**5. Sección 6: Clasificación y Ciberseguridad** [[Clasificación y Ciberseguridad]]
+**6. Sección 6:** **Caso Práctico: #aprendizajeSupervisado**
+- Regresión Lineal: Predecir coste de incidente de seguridad ✔
+- Regresión Logística: Construyendo un detector de SPAM ✔
 
-**7. Sección 7:**
+**7. Sección 7:** **Creación de un proyecto de Machine Learning** #machine_learning 

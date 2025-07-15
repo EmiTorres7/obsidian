@@ -16,7 +16,7 @@ Hizo una crítica de la cultura, la religión, y la filosofía occidental median
 
 	**genealogía:** es una técnica histórica en la que se cuestiona el surgimiento comúnmente entendido de diversas creencias filosóficas y sociales mostrando historias alternativas de su desarrollo. 
 
-**[[Schopenhauer]]** ejerció influencia sobre él, lo consideró su maestro pero no siguió todas sus ideas, muchas veces criticaba su filosofía.
+**[[2 - Source Material/Polímatas famosos/Schopenhauer]]** ejerció influencia sobre él, lo consideró su maestro pero no siguió todas sus ideas, muchas veces criticaba su filosofía.
 Toma de él, esa imagen del cosmos como una voluntad que lucha por hacerse más de una manera espontánea y caótica sin obedecer a una razón normalizadora o un plan preconcebido.
 
 
