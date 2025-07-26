@@ -14,7 +14,7 @@ Contiene cuentos escritos más recientemente al momento de su publicación entre
 4. _La muerte y la brújula_ [[#**La muerte y la brújula**]]
 5. _El milagro secreto_ [[#**El milagro secreto**]]
 6. _Tres versiones de Judas_ [[#**Tres versiones de Judas**]]
-7. _El fin_
+7. _El fin_ [[#**El fin**]]
 8. _La secta del Fénix_
 9. _El Sur_
 ---
@@ -171,11 +171,29 @@ El escritor ficticio de Borges, Nils Runeberg, presenta al mundo tres versiones 
 
 - En su libro final, _Den hemlige Frälsaren_, Runeberg presenta el argumento de que como Dios en forma humana sería «hecho totalmente hombre, pero hombre hasta el punto de la iniquidad», cometer un [pecado](https://es.wikipedia.org/wiki/Pecado "Pecado") tampoco estaría más allá de él. Más importante aún, Runeberg afirma que un sacrificio limitado a una sola tarde en la cruz no se compara con el sacrificio de aceptar la vergüenza y la repulsión por el resto de la historia. Por lo tanto, Runeberg concluye finalmente que eligió a Judas como su [encarnación](https://es.wikipedia.org/wiki/Encarnaci%C3%B3n "Encarnación"). #Quote «Dios se convirtió en un hombre completamente, un hombre hasta el punto de la infamia, un hombre hasta el punto de ser reprensible, todo el camino hasta el abismo. Para salvarnos, pudo haber elegido cualquiera de los destinos que juntos tejen la incierta telaraña de la historia; podría haber sido [Alejandro](https://es.wikipedia.org/wiki/Alejandro_Magno "Alejandro Magno"), [Pitágoras](https://es.wikipedia.org/wiki/Pit%C3%A1goras "Pitágoras"), [Riúrik](https://es.wikipedia.org/wiki/Ri%C3%BArik "Riúrik"), o Jesús; eligió un destino infame: ser Judas».
 ---
+### **El fin**
+[[#📍 Segunda parte _Artificios_ (agregada en la edición de 1944)]]
 
-- **El fin**  
-    Una especie de secuela indirecta de "El Martín Fierro", donde se resuelve un viejo duelo. Borges recupera la épica criolla y la cruza con la fatalidad de la tragedia clásica.
-    
-- **La secta del Fénix**  
+Una especie de secuela indirecta de "El Martín Fierro", donde se resuelve un viejo duelo. Borges recupera la épica criolla y la cruza con la fatalidad de la tragedia clásica.
+
+_"El fin"_ narra una escena aparentemente simple: un **duelo entre dos hombres en una casa de campo**. Uno de ellos es **el Negro**, un gaucho que trabaja en la estancia, y el otro es **el moreno**, un forastero que ha venido a saldar una vieja deuda.
+
+La **historia está contada desde el punto de vista** de un **hombre paralítico**, que observa el enfrentamiento sin intervenir. Él está postrado en una cama desde hace tiempo y asiste como testigo mudo a los acontecimientos que culminan en el duelo. No puede hablar ni moverse, lo que lo convierte en un observador impotente del destino que se cumple ante sus ojos.
+
+El desenlace es la **muerte del Negro a manos del moreno**, un acto que el narrador percibe como la culminación de una historia ya escrita, un destino inevitable.
+
+1. **Continuación de “El Martín Fierro”**
+
+Muchos críticos han interpretado _"El fin"_ como una especie de **secuela oscura de _[[El Martín Fierro]]_**, el poema épico gauchesco de José Hernández. En esta lectura, el moreno que aparece en el cuento podría ser **el hermano del Negro que Fierro mata en el duelo del libro**. Borges, así, reinterpreta la literatura nacional, mostrando un ajuste de cuentas trágico y desmitificador.
+El **fin de una historia previa**, como la de _El Martín Fierro_.
+
+2. **El tiempo y el destino**
+
+Como en muchos cuentos de Borges, hay una fuerte noción de **destino circular**, casi fatalista. El narrador observa el duelo como si ya hubiera ocurrido, como si no pudiera ser de otra manera. Todo parece conducido hacia un **fin predeterminado**, una estructura muy borgiana.
+
+
+---
+**La secta del Fénix**  
     Un grupo misterioso comparte un rito secreto e inconfesable que, en realidad, es común a toda la humanidad. Borges juega con la **ambigüedad y la universalidad**.
     
 - **El Sur**  

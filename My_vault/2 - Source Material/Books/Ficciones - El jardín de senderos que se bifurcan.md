@@ -1,7 +1,7 @@
 2025-06-16 11:08
 
 **Tags:** #Book #Borges 
-###### **References:** [[Ficciones]];  [[Jorge Luis Borges]]
+###### **References:** [[Ficciones]];  [[Jorge Luis Borges]] 
 
 ### **Cuentos:**
 - Tlön, Uqbar, Orbis Tertius [[Ficciones - El jardín de senderos que se bifurcan#Tlön, Uqbar, Orbis Tertius]]
