@@ -12,8 +12,8 @@ Contiene cuentos escritos más recientemente al momento de su publicación entre
 2. _La forma de la espada_ [[#**La forma de la espada**]]
 3. _Tema del traidor y del héroe_ [[#**Tema del traidor y del héroe**]]
 4. _La muerte y la brújula_ [[#**La muerte y la brújula**]]
-5. _El milagro secreto_
-6. _Tres versiones de Judas_
+5. _El milagro secreto_ [[#**El milagro secreto**]]
+6. _Tres versiones de Judas_ [[#**Tres versiones de Judas**]]
 7. _El fin_
 8. _La secta del Fénix_
 9. _El Sur_
@@ -125,24 +125,53 @@ Borges explora cómo **la historia puede ser una forma de ficción** que disfraz
 
 Un detective racionalista, Lönnrot, trata de resolver una serie de crímenes siguiendo un patrón cabalístico. La lógica lo lleva a una trampa mortal. Borges plantea una **crítica a la razón como vía única de conocimiento**.
 
+El cuento es una especie de **relato policial metafísico**. El protagonista es **Erik Lönnrot**, un detective racional, lógico, intelectual, que investiga una serie de asesinatos con un aparente trasfondo místico y cabalístico. A lo largo de la historia, Lönnrot intenta descifrar el patrón detrás de los crímenes, guiándose por signos, fechas y símbolos religiosos, especialmente judíos y cabalísticos.
 
+Sin embargo, al final se revela que todo fue una trampa cuidadosamente construida por **Red Scharlach**, un criminal que busca vengarse de Lönnrot por la muerte de su hermano. El detective, creyendo haber llegado al centro de un laberinto de signos, en realidad ha sido guiado paso a paso hasta su propia **muerte**.
 
+- **El laberinto y la brújula**: La brújula es símbolo de orientación y conocimiento; el laberinto representa lo contrario: la confusión, lo inextricable. Lönnrot cree haber usado la brújula para descifrar el laberinto de los crímenes, pero en realidad ha sido llevado por un camino ilusorio hacia su fin.
+   
+- **El destino y el libre albedrío**: El cuento plantea si somos verdaderamente libres o si nuestras decisiones (aparentemente racionales) están predeterminadas por otros —como en este caso, por Scharlach.
 
-
-
-
-
-
-
-
+- **Parodia del género policial**: Borges subvierte las convenciones del relato policial clásico (tipo Sherlock Holmes), al mostrar que el detective no resuelve el crimen, sino que su intelecto lo lleva a la muerte. Hay una crítica implícita a la idea de que todo tiene una solución racional.
 ---
 
-- **El milagro secreto**  
-    Un escritor condenado a muerte por los nazis reza por tiempo para terminar su obra. Dios le concede un año subjetivo de tiempo detenido en el instante antes de su ejecución. Es un cuento sobre el **poder de la imaginación y la salvación a través del arte**.
-    
-- **Tres versiones de Judas**  
-    Un teólogo propone tres teorías sobre Judas, en una exploración de la fe, el sacrificio y la redención que bordea la blasfemia. Borges se adentra en **la teología como una forma extrema de literatura**.
-    
+### **El milagro secreto**  
+[[#📍 Segunda parte _Artificios_ (agregada en la edición de 1944)]]
+
+Un escritor condenado a muerte por los nazis reza por tiempo para terminar su obra. Dios le concede un año subjetivo de tiempo detenido en el instante antes de su ejecución. Es un cuento sobre el **poder de la imaginación y la salvación a través del arte**.
+
+El protagonista es **Jaromir Hladík**, un escritor y académico checo, que es arrestado por los nazis en Praga durante la Segunda Guerra Mundial. Se le acusa de ser judío y enemigo del Reich, y es condenado a muerte por fusilamiento.
+
+Durante los días que preceden a su ejecución, Hladík reflexiona sobre su vida y sobre una obra teatral inacabada: _Los enemigos_, un drama en verso que considera su obra maestra.
+
+La noche antes de su ejecución, Hladík le ruega a Dios, no por su vida, sino por el tiempo necesario para terminar su obra. Al día siguiente, cuando el pelotón de fusilamiento va a disparar, ocurre un **milagro secreto**: el tiempo se detiene. Las balas quedan suspendidas en el aire, todo el universo se congela, excepto su mente.
+
+Durante **un año completo subjetivo**, en ese instante detenido, Hladík logra completar su obra en su mente, palabra por palabra, acto por acto. Cuando acaba, el tiempo se reanuda, las balas lo alcanzan y muere.
+
+- **La creación como redención**: El milagro que Dios le concede no es salvarle la vida, sino permitirle **crear**. Para Borges, la creación estética puede tener un valor trascendental, casi religioso.
+
+- **La ficción dentro de la ficción**: El hecho de que todo ocurra en la mente del escritor plantea preguntas sobre la realidad y la ficción. ¿Realmente ocurrió el milagro? ¿O fue otra creación más de la mente del escritor?
+   
+- **Dios como lector o espectador**: Borges sugiere que Dios concede el milagro como si fuera un lector interesado en la obra de Hladík. Es una manera de elevar la escritura a un acto casi sagrado.
+---
+### **Tres versiones de Judas**  
+[[#📍 Segunda parte _Artificios_ (agregada en la edición de 1944)]]
+
+Un teólogo propone tres teorías sobre Judas, en una exploración de la fe, el sacrificio y la redención que bordea la blasfemia. Borges se adentra en **la teología como una forma extrema de literatura**.
+
+La historia comienza como un análisis crítico de las obras de un escritor ficticio, [Nils Runeberg](https://es.wikipedia.org/w/index.php?title=Nils_Runeberg&action=edit&redlink=1 "Nils Runeberg (aún no redactado)"). Él vive en la ciudad de [Lund](https://es.wikipedia.org/wiki/Lund "Lund"), donde publica dos libros: **_Kristus och Judas_ (1904) (Cristo y Judas)** y su obra magna **_Den hemlige Frälsaren_ (1909)**** (El Salvador secreto)**. 
+Borges analiza estas dos obras (tres si la edición revisada de _Kristus och Judas_ se cuenta por separado) y discute sus conclusiones heréticas sin proporcionar la [dialéctica](https://es.wikipedia.org/wiki/Dial%C3%A9ctica "Dialéctica") o sus pruebas. La historia termina con la muerte de Nils Runeberg. Una muerte de anonimato que no se merecía, teniendo en cuenta la naturaleza controvertida de sus textos.
+
+El escritor ficticio de Borges, Nils Runeberg, presenta al mundo tres versiones de [Judas Iscariote](https://es.wikipedia.org/wiki/Judas_Iscariote "Judas Iscariote") usando sus dos libros
+
+- En la **primera versión de _Kristus och Judas_**, Runeberg dice que fue Judas quien fue el reflejo de [Jesús](https://es.wikipedia.org/wiki/Jes%C3%BAs "Jesús") en el mundo humano, y como Jesús fue nuestro salvador enviado del cielo, Judas tomó la responsabilidad de ser el humano que llevó a Jesús por el camino de la redención.
+
+- En medio de críticas extremas en la historia, Runeberg se ve obligado a reescribir su libro. En la segunda revisión de _Kristus och Judas_, Nils cambia sus argumentos y afirma que Judas sacrificó más. En las propias palabras de Borges, «El [asceta](https://es.wikipedia.org/wiki/Asceta "Asceta"), para mayor gloria de Dios, degrada y mortifica la carne, Judas hizo lo mismo con el espíritu. Él renunció al honor, al bien, a la paz, al [Reino de los Cielos](https://es.wikipedia.org/wiki/Reino_de_los_Cielos "Reino de los Cielos"), como otros, menos heroicamente, renuncian al placer [...] Él pensó que la felicidad, como el bien, es un atributo divino y no debe ser usurpado por los hombres».
+
+- En su libro final, _Den hemlige Frälsaren_, Runeberg presenta el argumento de que como Dios en forma humana sería «hecho totalmente hombre, pero hombre hasta el punto de la iniquidad», cometer un [pecado](https://es.wikipedia.org/wiki/Pecado "Pecado") tampoco estaría más allá de él. Más importante aún, Runeberg afirma que un sacrificio limitado a una sola tarde en la cruz no se compara con el sacrificio de aceptar la vergüenza y la repulsión por el resto de la historia. Por lo tanto, Runeberg concluye finalmente que eligió a Judas como su [encarnación](https://es.wikipedia.org/wiki/Encarnaci%C3%B3n "Encarnación"). #Quote «Dios se convirtió en un hombre completamente, un hombre hasta el punto de la infamia, un hombre hasta el punto de ser reprensible, todo el camino hasta el abismo. Para salvarnos, pudo haber elegido cualquiera de los destinos que juntos tejen la incierta telaraña de la historia; podría haber sido [Alejandro](https://es.wikipedia.org/wiki/Alejandro_Magno "Alejandro Magno"), [Pitágoras](https://es.wikipedia.org/wiki/Pit%C3%A1goras "Pitágoras"), [Riúrik](https://es.wikipedia.org/wiki/Ri%C3%BArik "Riúrik"), o Jesús; eligió un destino infame: ser Judas».
+---
+
 - **El fin**  
     Una especie de secuela indirecta de "El Martín Fierro", donde se resuelve un viejo duelo. Borges recupera la épica criolla y la cruza con la fatalidad de la tragedia clásica.
     

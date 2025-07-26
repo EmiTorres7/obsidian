@@ -1,10 +1,11 @@
 2025-06-12 11:51
 
-Tags: #English #AI #machine_learning #6_minutes_English 
+**Tags:** #English #AI #machine_learning #6_minutes_English 
+**References:**
 [[Opinion - Can AI have a mind of its own|Opinion - Can AI have a mind of its own]]
-
+[[Do you fear Artificial intelligence]]
+[[6 minutes English]]
 ## 6 minutes English
-
 ##### **Vocabulary preview:**
 
 - **LaMDA:** Language Models for Dialogue Aplications
