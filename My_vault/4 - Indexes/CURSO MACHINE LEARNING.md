@@ -13,4 +13,6 @@ Tags: #machine_learning #bioinformática #AI #aprendizajeSupervisado #aprendizaj
 - Regresión Lineal: Predecir coste de incidente de seguridad ✔
 - Regresión Logística: Construyendo un detector de SPAM ✔
 
-**7. Sección 7:** **Creación de un proyecto de Machine Learning** #machine_learning 
+**7. Sección 7:** **Creación de un proyecto de Machine Learning** 
+- [[Conjunto de Datos]] 
+- [[Visualización del conjunto de datos]]

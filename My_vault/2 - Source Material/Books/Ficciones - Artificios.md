@@ -196,7 +196,7 @@ Como en muchos cuentos de Borges, hay una fuerte noción de **destino circular**
 **La secta del Fénix**  
     Un grupo misterioso comparte un rito secreto e inconfesable que, en realidad, es común a toda la humanidad. Borges juega con la **ambigüedad y la universalidad**.
     
-- **El Sur**  
+**El Sur**  
     Uno de los cuentos más valorados de Borges. Un bibliotecario herido gravemente viaja al sur argentino, y allí sufre una transformación épica. El final es ambiguo: ¿es real o imaginado? Es un **relato sobre el destino, el coraje y la muerte elegida**.
 
 

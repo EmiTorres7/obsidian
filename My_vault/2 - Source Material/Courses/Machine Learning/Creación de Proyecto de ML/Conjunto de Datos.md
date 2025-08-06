@@ -11,8 +11,10 @@
 - [[Qué es Machine Learning#**Aprendizaje Supervisado** aprendizajeSupervisado]]
 ---
 ### 1.- CONJUNTO DE DATOS 
+- [[#Consideraciones a tener en cuenta en un proyecto de Machine Learning]]
+- [[#Recomendaciones sobre el Conjunto de Datos a la hora de afrontar un problema real mediante el uso de técnicas de machine_learning]]
 
-Consideraciones a tener en cuenta en un proyecto de Machine Learning 
+#### Consideraciones a tener en cuenta en un proyecto de Machine Learning 
 
 Vimos 2 de las técnicas más sencillas que podemos encontrar dentro del área del aprendizaje automático, #aprendizajeSupervisado que son la #Regresión_lineal y la #Regresión_logística. 
 
@@ -107,19 +109,20 @@ Como vemos cada una de las transacciones tendrá un valor determinado para cada 
 
 >El número de **características de entrada lo medimos con la letra N**, es decir que, n = número de atributos o características de entrada, en este caso son 5, así que **N = 5**. 
 
-19.50
+
 **Conclusión:** 
+Nuestro **conjunto de datos** vendrá representado por un conjunto de ejemplos que serán representativos del problema que queremos resolver (el problema que queremos resolver es que, a partir de una transferencia bancaria que realiza una persona quiero que el algoritmo de #machine_learning reciba esa transferencia y sea capaz de predecir si es legítima o no). Para resolver ese problema, recopilamos transacciones bancarias pasadas, extraigo una serie de características de entrada de estas (las 5 que vemos) y, las clasifico como fraudulentas o legítimas. 
+#aprendizajeSupervisado porque etiquetamos la característica de salida Y. conjunto de datos etiqeutados. #Regresión_logística porque el rango de valores de la característica Y es acotado, valores de 0 y 1.
 
-Nuestro conjunto de datos vendrá representado por un conjunto de ejemplos que serán representativos del problema que queremos resolver (el problema que queremos resolver es que, a partir de una transferencia bancaria que realiza una persona quiero que el algoritmo de ML reciba esa transferencia y sea capaz de predecir si es legítima o no). Para resolver ese problema, recopilamos transacciones bancarias pasadas, extraigo una serie de características de entrada de estas (las 5 que vemos) y, las clasifico como fraudulentas o legítimas. 
+Así le proporcionamos este **conjunto de datos etiquetados** para que este algoritmo de #Regresión_logística **ajuste estos parámetros del modelo** Htheta(x) = g(theta0 + tehta1.X1 + tehta2.X2 + ... + tehta5.X5). 
+>Y una vez que esos parámetros están ajustados, cuando recibo una transacción nueva que realiza una persona, hacemos una extracción de esas características de entrada X1 – X5, le proporcionamos estas características al algoritmo y este será capaz de predecirnos la variable de salida Y en base a esos parámetros theta1 a theta5 que ha ajustado previamente con el conjunto de datos de entrenamiento donde sabía cuál era la etiqueta de salida. 
 
-Así le proporcionamos este conjunto de datos etiquetados para que este algoritmo de regresión logística ajuste estos parámetros del modelo Htheta(x) = g(theta0 + tehta1.X1 + tehta2.X2 + ... + tehta5.X5). Y una vez que esos parámetros están ajustados, cuando recibo una transacción nueva que realiza una persona, hacemos una extracción de esas características de entrada X1 – X5, le proporcionamos estas características al algoritmo y este será capaz de predecirnos la variable de salida Y en base a esos parámetros theta1 a theta5 que ha ajustado previamente con el conjunto de datos de entrenamiento donde sabía cuál era la etiqueta de salida. 
+#### Recomendaciones sobre el Conjunto de Datos a la hora de afrontar un problema real mediante el uso de técnicas de #machine_learning 
 
-Recomendaciones sobre el Conjunto de Datos 
+1. Disponer de una **cantidad suficiente de datos, cuantos más datos tengamos, mejor se van a comportar nuestros algoritmos de #machine_learning**, cuantos más datos tengamos menos importa el algoritmo que seleccionemos porque casi todos van a llegar a un punto de rendimiento de precisión similar, ese rendimiento será mayor a mayor cantidad de datos. 
 
-1. Disponer de una cantidad suficiente de datos, cuantos más datos tengamos, mejor se van a comportar nuestros algoritmos de ML, cuantos más datos tengamos menos importa el algoritmo que seleccionemos porque casi todos van a llegar a un punto de rendimiento de precisión similar, ese rendimiento será mayor a mayor cantidad de datos. 
+2. Es esencial utilizar un **conjunto de datos que es representativo del problema que queremos resolver**, o sea, cuando hacemos esa extracción de las **características de entrada** debemos asegurarnos de que **extraemos aquellas que son representativas para diferenciar una transacción legítima de una que no lo es**. No sirve extraer atributos que no tienen nada que ver con el problema a resolver o que no van a diferenciar de ninguna manera una transacción legítima de una que no lo es. 
 
-2. Es esencial utilizar un conjunto de datos que es representativo del problema que queremos resolver, o sea, cuando hacemos esa extracción de las características de entrada debemos asegurarnos de que extraemos aquellas que son representativas para diferenciar una transacción legítima de una que no lo es. No sirve extraer atributos que no tienen nada que ver con el problema a resolver o que no van a diferenciar de ninguna manera una transacción legítima de una que no lo es. 
+3. Los **datos tiene que ser de calidad**, de nada serviría obtener un conjunto de datos de transacciones pasadas que no son reales por lo que no podemos pretender que utilizando ese conjunto de datos artificial o inventado por alguien nos sirva para entrenar un algoritmo que haga predicciones correctas. **Tienen que ser datos del pasado reales**. 
 
-3. Los datos tiene que ser de calidad, de nada serviría obtener un conjunto de datos de transacciones pasadas que no son reales por lo que no podemos pretender que utilizando ese conjunto de datos artificial o inventado por alguien nos sirva para entrenar un algoritmo que haga predicciones correctas. Tienen que ser datos del pasado reales. 
-
-4. Debe seleccionarse un conjunto de datos de características adecuado, minimizando el número de características irrelevantes. Cuantas más características de entrada tengamos (X1, X2, X3,) más parámetros tendrá que ajustar el algoritmo, tendrá que generar un modelo más complejo, por lo tanto, si tenemos muchas características que son irrelevantes (o sea son significativas del problema, pero tampoco marcan mucha diferencia) puede llegar a deteriorarse el rendimiento de nuestro algoritmo.
+4. Debe seleccionarse un conjunto de datos de características adecuado, minimizando el número de características irrelevantes. Cuantas más características de entrada tengamos (X1, X2, X3,) más parámetros tendrá que ajustar el algoritmo, tendrá que generar un modelo más complejo, por lo tanto, **si tenemos muchas características que son irrelevantes (o sea son significativas del problema, pero tampoco marcan mucha diferencia) puede llegar a deteriorarse el rendimiento de nuestro algoritmo**.
