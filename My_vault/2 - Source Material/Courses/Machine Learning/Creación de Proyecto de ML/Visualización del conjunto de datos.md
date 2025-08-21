@@ -232,13 +232,13 @@ Entonces le paso los datos ["data"] y le digo que las columnas sean igual a los 
 
 Entonces luego de ejecutar este código, hace esta lectura del df y vemos un conjunto de datos en 2 dimensiones bien representado:
 
-|duration|protocol_type|service|flag|src_bytes|dst_bytes|land|wrong_fragment|urgent|hot|...|dst_host_srv_count|dst_host_same_srv_rate|dst_host_diff_srv_rate|dst_host_same_src_port_rate|dst_host_srv_diff_host_rate|dst_host_serror_rate|dst_host_srv_serror_rate|dst_host_rerror_rate|dst_host_srv_rerror_rate|class|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|0|0.0|tcp|ftp_data|SF|491.0|0.0|0|0.0|0.0|0.0|...|25.0|0.17|0.03|0.17|0.00|0.00|0.00|0.05|0.00|normal|
-|1|0.0|udp|other|SF|146.0|0.0|0|0.0|0.0|0.0|...|1.0|0.00|0.60|0.88|0.00|0.00|0.00|0.00|0.00|normal|
-|2|0.0|tcp|private|S0|0.0|0.0|0|0.0|0.0|0.0|...|26.0|0.10|0.05|0.00|0.00|1.00|1.00|0.00|0.00|anomaly|
-|3|0.0|tcp|http|SF|232.0|8153.0|0|0.0|0.0|0.0|...|255.0|1.00|0.00|0.03|0.04|0.03|0.01|0.00|0.01|normal|
-|4|0.0|tcp|http|SF|199.0|420.0|0|0.0|0.0|0.0|...|255.0|1.00||
+| duration | protocol_type | service | flag     | src_bytes | dst_bytes | land   | wrong_fragment | urgent | hot | ... | dst_host_srv_count | dst_host_same_srv_rate | dst_host_diff_srv_rate | dst_host_same_src_port_rate | dst_host_srv_diff_host_rate | dst_host_serror_rate | dst_host_srv_serror_rate | dst_host_rerror_rate | dst_host_srv_rerror_rate | class |         |
+| -------- | ------------- | ------- | -------- | --------- | --------- | ------ | -------------- | ------ | --- | --- | ------------------ | ---------------------- | ---------------------- | --------------------------- | --------------------------- | -------------------- | ------------------------ | -------------------- | ------------------------ | ----- | ------- |
+| 0        | 0.0           | tcp     | ftp_data | SF        | 491.0     | 0.0    | 0              | 0.0    | 0.0 | 0.0 | ...                | 25.0                   | 0.17                   | 0.03                        | 0.17                        | 0.00                 | 0.00                     | 0.00                 | 0.05                     | 0.00  | normal  |
+| 1        | 0.0           | udp     | other    | SF        | 146.0     | 0.0    | 0              | 0.0    | 0.0 | 0.0 | ...                | 1.0                    | 0.00                   | 0.60                        | 0.88                        | 0.00                 | 0.00                     | 0.00                 | 0.00                     | 0.00  | normal  |
+| 2        | 0.0           | tcp     | private  | S0        | 0.0       | 0.0    | 0              | 0.0    | 0.0 | 0.0 | ...                | 26.0                   | 0.10                   | 0.05                        | 0.00                        | 0.00                 | 1.00                     | 1.00                 | 0.00                     | 0.00  | anomaly |
+| 3        | 0.0           | tcp     | http     | SF        | 232.0     | 8153.0 | 0              | 0.0    | 0.0 | 0.0 | ...                | 255.0                  | 1.00                   | 0.00                        | 0.03                        | 0.04                 | 0.03                     | 0.01                 | 0.00                     | 0.01  | normal  |
+| 4        | 0.0           | tcp     | http     | SF        | 199.0     | 420.0  | 0              | 0.0    | 0.0 | 0.0 | ...                | 255.0                  | 1.00                   |                             |                             |                      |                          |                      |                          |       |         |
 
 **filas:** representan cada uno de los ejemplos de mi conjunto de datos (cada flujo de tráfico de red)
 (125973 rows)
@@ -383,26 +383,146 @@ df.hist(bins=50, figsize=(20,15))
 plt.show()
 ```
 
-minuto 25.10
+
 ## 3. Funciones avanzadas de visualización de los datos
 [[#VISUALIZACIÓN DEL CONJUNTO DE DATOS]]
+
+Se  pueden utilizar funciones más avanzadas para ganar todavía más intuiciones de ese conjunto de datos que tenemos. Una de las formas de ganar más intuiciones es Buscar correlaciones entre atributos
 ##### Buscando correlaciones
 
-- Se puede calcular el coeficiente de correlación estándar para ver la correlación entre cada par de atributos
+- Se puede calcular el **coeficiente de correlación estándar** para **ver la correlación entre cada par de atributos**
 - El coeficiente de correlación, solo mide **correlaciones lineales**, esto quiere decir que si x va hacia arriba, mediría si y va hacia arriba o hacia abajo.
+
+Una correlación lineal quiere decir que si el valor de un atributo crece, el valor del otro atributo también crece en la misma proporción o disminuye en la misma proporción.
+Es decir, 2 atributos están correlacionados si por ejemplo el atributo de entrada x1 crece, el atributo de entrada x2 también lo hace. O sea es cuando se produce esa correlación de que cuando uno crece o disminuye, el otro también lo hace.
+
 - **Hay que intentar buscar correlaciones sobre todo con el atributo objetivo (el que queremeos predecir), en este caso _class_**
 
+>Es útil medir estas correlaciones porque podemos **medir las correlaciones que hay entre nuestros atributos de entrada X1, X2, Xn y nuestra variable de salida Y**. Con lo cual nosotros vamos a saber que cuando existen correlaciones entre uno de los atributos de entrada y la variable de salida, quiere decir que ese atributo será bastante útil y que será significativo para tratar de clasificar en una categoría u otra nuestros ejemplos que tenemos en el conjunto de datos.
+
+>También podemos usarlo para **medir la correlación que hay entre diferentes características de entrada**, de manera que si una característica de entrada sube y la otra también lo hace de la misma manera, pues a lo mejor básicamente nos están proporcionando la misma intuición, por lo que quizás no necesitaríamos las 2 características porque están muy correlacionadas, así quizás podemos eliminar una característica y dejar nuestro conjunto de datos con una característica de entrada menos lo cual exigiría menor requisitos computacionales para entrenar nuestro algoritmo de #machine_learning 
 
 
+El **atributo o la etiqueta Y** de nuestro conjunto de datos es el **atributo class**
+
+```python
+#El atributo class de nuestro conjunto de datos tiene valores categoricos
+df["class"]
+
+0          normal
+1          normal
+2         anomaly
+3          normal
+4          normal
+           ...   
+125968    anomaly
+125969     normal
+125970     normal
+125971    anomaly
+125972     normal
+Name: class, Length: 125973, dtype: object
+````
+
+Para poder **calcular la correlación:**
+Vamos a transformar esos valores del atributo class de categóricos a valores numéricos.
+lo que hace básicamente el código es transformar donde teníamos como valor normal lo igualará a 1 y el valor anormal lo igualará a 0
+normal = 1
+anormal = 0
+
+Queremos calcular la correlación entre los atributos numéricos con la variable de salida Y
+
+```python
+from sklearn.preprocessing import LabelEncoder
+
+# Transformamos los valores del atributo class de categoricos a numéricos
+labelencoder = LabelEncoder()
+df["class"] = labelencoder.fit_transform(df["class"])
+
+# Transformamos los valores de los atributos categóricos a numéricos
+df["protocol_type"] = labelencoder.fit_transform(df["protocol_type"])
+df["service"] = labelencoder.fit_transform(df["service"])
+df["flag"] = labelencoder.fit_transform(df["flag"])
+
+df
+```
+
+Una vez que hemos transformado esos valores categóricos a numéricos, puedo mostrar la correlación entre los atributos de entrada de mi conjunto de datos (aquellos atributos numéricos) y mi característica de salida Y.
+
+```python
+# Mostrar la correlación entre los atributos del conjunto de datos
+corr_matrix = df.corr()
+corr_matrix["class"].sort_values(ascending=False)
+
+#Me muestra la correlación que hay entre los diferentes atributos
+class                          1.000000
+same_srv_rate                  0.751913
+dst_host_srv_count             0.722535
+dst_host_same_srv_rate         0.693803
+logged_in                      0.690171
+flag                           0.647073
+protocol_type                  0.281355
+srv_diff_host_rate             0.119377
+is_guest_login                 0.039279
+num_access_files               0.036701
+su_attempted                   0.022448
+num_file_creations             0.021271
+root_shell                     0.020285
+hot                            0.013083
+num_root                       0.011452
+```
+
+El atributo o característica clase obviamente tendrá una correlación del 100% porque es una correlación con ella misma, cuando sube una obviamente sube la otra porque es la misma característica.
+
+Podemos ver que hay mucha correlación entre la característica de destino Y (class) y las características de entrada "same_srv_rate" (por ejemplo del 0.75), "dst_host_srv_count" con 0.72 y así podemos ver las correlaciones entre las distintas características de entrada X con la característica de salida Y.
+
+Por lo tanto, podemos suponer que las primeras características de entrada X serán bastante útiles para clasificar los ejemplos de nuestro conjunto de datos de entrenamiento, en anómalos o en legítimos
+
+```python
+# Mostrar correlación lineal entre todos los atributos del conjunto de datos
+df.corr()
+```
+
+Podemos mostrar la correlación entre todos los atributos, no únicamente con esa clase (con esa etiqueta Y) y esto lo hago con el método corr().
+
+Así me calcula la correlación que existe entre todos los atributos que tengo en mi conjunto de datos. Nos muestra la correlación por ejemplo entre duration y procol_type o duration con service y así sucesivamente
+
+|               | duration  | protocol_type | service   | flag      | src_bytes | dst_bytes | land      | urgent    | hot       | ...       | dst_host_srv_count | dst_host_same_srv_rate | dst_host_diff_srv_rate | dst_host_same_src_port_rate |           | dst_host_srv_diff_host_rate<br> | dst_host_serror_rate | dst_host_srv_serror_rate | dst_host_rerror_rate | dst_host_srv_rerror_rate | class     |
+| ------------- | --------- | ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | ------------------ | ---------------------- | ---------------------- | --------------------------- | --------- | ------------------------------- | -------------------- | ------------------------ | -------------------- | ------------------------ | --------- |
+| duration      | 1.000000  | 0.038241      | 0.092858  | -0.063390 | 0.070737  | 0.034878  | -0.001553 | -0.009866 | 0.003830  | 0.000705  | ...                | -0.109776              | -0.116005              | 0.254195                    | 0.228737  | -0.026669                       | -0.064948            | -0.064361                | 0.173815             | 0.199024                 | -0.048785 |
+| protocol_type | 0.038241  | 1.000000      | 0.029994  | 0.093668  | -0.000974 | -0.000608 | -0.001757 | 0.169535  | -0.000965 | -0.011857 | ...                | 0.103919               | 0.001702               | 0.131380                    | -0.209105 | -0.356183                       | -0.079398            | -0.077925                | -0.015434            | -0.046938                | 0.281355  |
+| service       | 0.092858  | 0.029994      | 1.000000  | -0.304014 | -0.001631 | 0.003596  | -0.009952 | 0.084404  | 0.010980  | -0.064066 | ...                | -0.407696              | -0.452696              | 0.284072                    | -0.111163 | -0.156211                       | 0.281635             | 0.277594                 | 0.150666             | 0.148405                 | -0.276548 |
+| flag          | -0.063390 | 0.093668      | -0.304014 | 1.000000  | -0.008114 | -0.004096 | -0.010373 | 0.067214  | 0.005811  | 0.068437  | ...                | 0.582687               | 0.630118               | -0.283607                   | 0.195689  | 0.073773                        | -0.443441            | -0.443225                | -0.683310            | -0.718778                | 0.647073  |
 
 
+Algo bastante útil de representar es lo que se llama **Matriz de Correlación**
 
+```python
+# Representar gráficamente la matriz de correlación
+corr = df.corr()
+fig, ax = plt.subplots(figsize=(8, 8))
+ax.matshow(corr)
+plt.xticks(range(len(corr.columns)), corr.columns);
+plt.yticks(range(len(corr.columns)), corr.columns);
+```
 
+En el gráfico [Matriz de Correlación](http://localhost:8888/notebooks/6_Visualizaci%C3%B3n%20del%20conjunto%20de%20datos.ipynb?)
+podemos ver la correlación entre todos los atributos, y observamos que cuanto más amarillo sea quiere decir que hay más correlación entre ellos 
 
+En lugar de representar las correlaciones de todos los atributos, podemos hacerlo de un conjunto determinado de atributos: 
+>attributes = ["same_srv_rate", "dst_host_srv_count", "class", "dst_host_same_srv_rate"]
 
+```python
+# Representar gráficamente las correlaciones
+from pandas.plotting import scatter_matrix
 
+attributes = ["same_srv_rate", "dst_host_srv_count", "class", "dst_host_same_srv_rate"]
 
+scatter_matrix(df[attributes], figsize=(12,8))
+plt.show()
+```
 
-
+En el gráfico [Matriz de Correlación](http://localhost:8888/notebooks/6_Visualizaci%C3%B3n%20del%20conjunto%20de%20datos.ipynb?)
+Nos muestra en un scatter matrix (que es un formato de matriz diferente) es en qué sentido está esta correlación entre estos atributos o características de entrada que nos interesa.
+Es más útil hacer esto, en lugar de representar la correlación entre todos los atributos, es más visual representar la correlación de los atributos que nosotros sospechamos que pueden tener correlación entre ellos y así representarlos gráficamente
 
 
