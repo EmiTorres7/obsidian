@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Books/La humanidad del genoma.md",
+                "file": "1 - Rough Notes/curious facts/The 5 core principles of Life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La humanidad del genoma"
+              "title": "The 5 core principles of Life"
             }
           }
         ],
@@ -186,8 +186,10 @@
   },
   "active": "9cd1d00a728e63cb",
   "lastOpenFiles": [
-    "2 - Source Material/Books/Ficciones.md",
+    "1 - Rough Notes/curious facts/The 5 core principles of Life.md",
+    "1 - Rough Notes/curious facts/Soneto Ozymandias.md",
     "2 - Source Material/Books/La humanidad del genoma.md",
+    "2 - Source Material/Books/Ficciones.md",
     "2 - Source Material/Books/Así habló Zaratustra.md",
     "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML/División del conjunto de Datos.md",
     "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML/Conjunto de Datos.md",
@@ -203,7 +205,6 @@
     "2 - Source Material/Courses/CoderHouse/NODE JS.md",
     "2 - Source Material/Courses/CoderHouse/Java Script.md",
     "1 - Rough Notes/curious facts/The Tao of Seneca.md",
-    "1 - Rough Notes/curious facts/Soneto Ozymandias.md",
     "2 - Source Material/Courses/CoderHouse/JS códigos.md",
     "2 - Source Material/Courses/RNA-seq/How to manipulate gene expression data.md",
     "6 - Main Notes/El Azar.md",
@@ -214,7 +215,6 @@
     "2 - Source Material/Courses/RNA-seq/Download RNA-Seq data from NCBI GEO.md",
     "2 - Source Material/Podcasts/6 minutes English/Coffee, the finest organic suspension over devised.md",
     "2 - Source Material/Podcasts/6 minutes English/Can AI have a mind of its own.md",
-    "2 - Source Material/Courses/CoderHouse/CSS utilities.md",
     "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML",
     "2 - Source Material/Polímatas famosos",
     "2 - Source Material/Videos/Interesting Videos",

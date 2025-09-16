@@ -20,8 +20,9 @@ Las objeciones tienen más que ver con la ética o con la posible utilidad de ta
 
 Ante la pregunta si para revertir los efectos nocivos de una mutación causante de una enfermedad hereditaria sería posible recurrir a una terapia génica que consista en introducir un gen sano en un cigoto, por ahora no tiene sentido.
 
-...
-
+- En primer lugar, porque la inserción de un #transgén en los cromosomas de un cigoto es un proceso incontrolable y azaroso. No se puede predecir cuántas copias se van a insertar, ni en qué sitios.
+- Segundo, para tener éxito se deberían micro-inyectar numerosos cigotos, de los cuales sólo un pequeño porcentaje sobreviviría y daría embriones
+- Tercero, los padres portadores del gen defectuoso hereditario que se pretende corregir, van a generar tanto embriones sanos como enfermos en distintas proporciones. Sería más fácil destinar esfuerzos a identificar mediante diagnóstico molecular los embriones sanos y reimplantar sólo estos.
 
 >**transgénico:** es un organismo vivo que fue modificado mediante la adición de genes exógenos para lograr nuevas propiedades
 
