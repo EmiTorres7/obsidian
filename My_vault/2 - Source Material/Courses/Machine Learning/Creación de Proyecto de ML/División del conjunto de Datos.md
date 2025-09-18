@@ -11,10 +11,11 @@
 - [[Qué es Machine Learning#Sección 5 - Clasificación de los sistemas de Machine Learning]]
 - [[Qué es Machine Learning#**Aprendizaje Supervisado** aprendizajeSupervisado]]
 ---
-**Índice**
-[[#Soluciones al overfitting]]
-[[#Solución al Overfitting Regularización]]
-[[#Evaluación de la hipótesis]]
+###### **Índice**
+- [[#Soluciones al overfitting]]
+- [[#Solución al Overfitting Regularización]]
+- [[#Evaluación de la hipótesis]]
+- [[#Ejercicio División del Conjunto de Datos]]
 
 ---
 # Overfitting y Underfitting
@@ -46,7 +47,9 @@ Ver explicación video clase
 #Underfitting
 Por ejemplo en casos que usemos un modelo de regresión lineal (una recta) cuando no sea apropiado de acuerdo a mi tendencia de datos, ya que la regresión lineal es un modelo muy rígido, sólo podemos construir una recta y si la tendencia de nuestro conjunto de datos no es recta sino que es un poco curva, por lo que el error que tengamos a la hora de predecir datos futuros será grande.
 
+---
 #### Soluciones al overfitting
+[[#**Índice**]]
 
 Una de las formas más comunes para evitar que se produzca #Overfitting o sobre entrenamiento:
 
@@ -65,6 +68,7 @@ Ej: #Random_Forest nos permite hacer esta selección de características DE MANE
 La regularización va a reducir esos parámetros que están produciendo sobre entrenamiento, de manera que se regule un poco la flexibilidad del modelo y no se ajuste tanto a nuestro conjunto de datos de entrenamiento (o sea que no sea tan rígido).
 
 #### Solución al #Overfitting : Regularización 
+[[#**Índice**]]
 
 La regularización va a agregar una penalización a los diferentes parámetros theta0, theta1, thetaN del modelo, con el objetivo de reducir su libertad.
 
@@ -91,9 +95,11 @@ Si bien se ajusta perfectamente a nuestro conjunto de datos de entrenamiento, al
 
 >Mediante este parámetro lambda lo que haremos será controlar la flexibilidad o la rigidez de ese modelo
 
+---
 ## Evaluación de la hipótesis
 [[#Overfitting y Underfitting]]
 [[#Solución al Overfitting Regularización]]
+[[#**Índice**]]
 
 **Tags:** #Train_Set y #Test_Set 
 
@@ -136,6 +142,7 @@ Aquí en este 2do subconjunto lo que haré es eliminar o apartar la etiqueta "Y"
 ---
 ## Selección de un modelo
 Video: Sección 7: Creación de un proyecto de Machine Learning - 47. Selección del Modelo
+[[#**Índice**]]
 
 >- Si el error en el #Train_Set es pequeño pero en el #Test_Set es grande -> #Overfitting 
 > 
@@ -167,6 +174,152 @@ Video: Sección 7: Creación de un proyecto de Machine Learning - 47. Selección
 
 (Ver video)
 
+---
+## Ejercicio División del Conjunto de Datos
+[[#Índice**]]
+
+Vemos cómo tenemos que manejar un conjunto de datos para resolver un problema real mediante el uso de #machine_learning , dividiendo ese conjunto de datos en subconjuntos:
+
+- subconjunto de datos de entrenamiento #Train_Set 
+- subconjunto de datos de prueba #Test_Set 
+- subconjunto de datos de validación #Validation_set 
+
+Cada uno de estos subconjuntos va a tener una función:
+- #Train_Set tendrá como función construir o ajustar esa #función/hipótesis de los algoritmos de #machine_learning 
+
+- #Train_Set y #Validation_set tienen como objetivo probar que estos algoritmos o estos modelos ajustados realizan buenas predicciones, ven si no están produciendo #Overfitting, #Underfitting o cualquier otro tipo de problemas similares.
+
+Como vemos en este conjunto de datos NSL-KDD tenemos:
+- KDDTrain+.TXT #Train_Set 
+- KDDTest+.TXT: #Test_Set 
+
+Este conjunto de datos en concreto ya viene dividido en #Train_Set y #Test_Set 
+Entonces aquí ya podríamos cargar por un lado el #Train_Set y por otro lado el #Test_Set y dividir el #Test_Set a su vez en datos de pruebas #Test_Set y datos de validación #Validation_set 
+
+>Ahora veremos cómo podemos utilizar las **funciones de SK-Learn** para partir un conjunto de datos inicial en subconjuntos que vamos a necesitar para entrenar nuestro algoritmo y luego para probarlo 
+
+>Vamos a partir este conjunto de datos de entrenamiento KDDTrain+.TXT #Train_Set aunque ya nos den divido los datos en #Train_Set y #Test_Set, vamos a considerar que el #Train_Set se corresponde con el conjunto de datos total, o sea lo vamos a tratar como el conjunto inicial y lo vamos a partir en un subconjunto de #train_set, uno de #Test_Set y un subconjunto de #Validation_set 
+
+---
+##### **1. Lectura del conjunto de datos**
+- Lo primero que hacemos como siempre es leer el conjunto de datos
+- Importamos el módulo arff y ejecutamos la función load_kdd_dataset()
+- Luego cargamos nuestro conjunto de datos con esa función, lo tendremos al único conjunto de datos cargado en df que se corresponde con un data_frame de pandas.
+- Visualizamos con df.info()
+
+Data columns (total 42 columns):
+ #   Column                       Non-Null Count   Dtype  
+---  ------                       --------------   -----  
+ 0   duration                     125973 non-null  float64
+ 1   protocol_type                125973 non-null  object 
+ 2   service                      125973 non-null  object 
+ 3   flag                         125973 non-null  object 
+ 4   src_bytes                    125973 non-null  float64
+ 5   dst_bytes                    125973 non-null  float64
+
+RangeIndex: 125973 entries, 0 to 125972
+Data columns (total 42 columns):
+
+Está formado por 125973 ejemplos y 42 columnas incluyendo la variable de salida, es decir, 41 características de entrada X1, X2, X41 y una variable de salida que sería Y.
+Como empieza en 0, la variable Y que sería la número 42, en el data_set se corresponde en la posición 41 que sería la clase de esos flujos, es decir si son flujos anómalos o legítimos.
+
+Una vez que tenemos el conjunto de datos inicial, vamos a dividir este conjunto inicial en diferentes sub-conjuntos.
+#Train_Set #Test_Set #Validation_set 
+
+>Sklearn tiene implementada la función *split_train_test*.
+
+Esta función divide el conjunto de datos en 2 subconjuntos en base a una proporción que nosotros le pasamos.
+```python
+#Separamos el conjunto de datos 60% train set, 40% test set
+from sklearn.model_selection import train_test_split
+
+train_set, test_set = train_test_split(df, test_size=0.4, random_state=42)
+```
+
+1. La importamos a la función split_train_test()
+2. le pasamos el data_set que sería el df
+3. test_size le paso una proporción de un 40% al #Test_Set 
+4. random_state es una semilla 
+
+#Train_Set tiene el 60% de la información
+#Test_Set tiene el 40% de los datos del conjunto inicial
+
+>train_set.info()
+>Index: 75583 entries, 98320 to 121958  
+   Data columns (total 42 columns): 
+
+75583 ejemplos en nuestro #Train_Set 
+41 características de entrada X1, X2,...,X41 y 
+1 característica de salida Y dada por la clase
+
+ #   Column                       Non-Null Count  Dtype  
+---  ------                       --------------  -----  
+ 0   duration                     75583 non-null  float64
+ 1   protocol_type                75583 non-null  object 
+ 2   service                      75583 non-null  object 
+ 3   flag                         75583 non-null  object 
+ 4   src_bytes                    75583 non-null  float64
+ 5   dst_bytes                    75583 non-null  float64
+
+>test_set.info()
+>Index: 50390 entries, 378 to 89600
+>Data columns (total 42 columns)
+
+50mil ejemplos en nuestro #Test_Set 
+41 características de entrada X
+1 característica de salida Y
+
+>Para evaluar diferentes modelos que podemos aplicar a un problema necesitamos dividir ese conjunto de datos de prueba, el #Test_Set en otro subconjunto, así tendremos 3 subconjuntos en total.
+
+```r
+# Separamos el conjunto de datos de pruebas 50% validation set, 50% test set
+val_set, test_set = train_test_split(test_set, test_size=0.5, random_state=42)
+```
+
+Usamos la misma función *train_test_split()* pero ahora le proporcionamos el test_set y lo dividiremos en 2 subconjuntos, dejando el 50% a un subconjunto #Test_Set  y un 50% al otro subconjunto #Validation_set 
+
+```python
+print("Longitud del Training Set:", len(train_set))
+print("Longitud del Validation Set:", len(val_set))
+print("Longitud del Test Set:", len(test_set))
+
+Longitud del Training Set: 75583
+Longitud del Validation Set: 25195
+Longitud del Test Set: 25195
+```
+
+> **Este es el método más común utilizado para particionar datos en subconjuntos**
+
+---
+#### Particionado aleatorio y Stratified Sampling
+
+Sklearn tiene implementa la función **train_test_split**, sin embargo, esta función por defecto realiza un particionado del conjunto de datos aleatorio para cada vez que se ejecuta el script. 
+Aún añadiendo una semilla fija para generación aleatoria como el número 42, cada vez que carguemos de nuevo el conjunto de datos se generarán nuevos subconjuntos. Esto puede ocasionar que después de mucho intentos, el algoritmo "vea" todo el conjunto de datos.
+
+Como hace un partiocionado aleatorio, puede que ya directamente el algoritmo vea todos los datos si nosotros cargamos varias veces de nuevo el jupiter notebook.
+Entonces lo que yo tenía en el #Test_Set puede que luego pase al #Train_Set y así, de manera que se estaría produciendo un #Overfitting porque no estaríamos dividiendo de manera correcta el conjunto de datos inicial ya que cada vez que re ejecute mi script, vuelve a hacer ese sampleo aleatorio.
+
+>Para solucionar este problema, Sklearn ha introducido el parámetro **shuffle** en la función **train_test_split**.
+
+```python
+# Si shuffle=False, el conjunto de datos no mezclará antes del particionado
+train_set, test_set = train_test_split(df, test_size=0.4, random_state=42, shuffle=False)
+```
+
+Ver video Caso práctico: división de conjunto de datos.
+
+>stratify=df["protocol_type"] lo que hace es mantener las proporciones en los 2 subconjuntos, o sea mantiene la proporción de valores para el conjunto de datos original.
+>
+>Lo bueno de utilizar esto es que no va hacer ese sampleo aleatorio, lo que básicamente hará que nuestro conjunto de datos no se van a generar cada vez que reejecutemos nuestro script 
+
+>Aseguramos que se mantengan las proporciones de determinadas características de entrada en los 3 sub conjuntos de datos #Train_Set #Test_Set #Validation_set de manera que nos aseguremos de que no hay ningún valor de esas características de entrada que quede sin representación en alguno de estos 3 subconjuntos de datos en los que subdividimos el conjunto de datos original
+
+Dependiendo de lo que queramos resolver, en algunos casos será útil aplicar **stratify sampling** y en otros casos no, sólo bastaría con aplicar el particionado aleatorio directamente.
+
+- Si tenemos un conjunto de datos muy grande, con ese particionado aleatorio sin aplicar stratify sampling, sería suficiente.
+- Si tenemos un caso en el que hemos recopilado datos y de esos tenemos algunos ejemplos como 20 ejemplos que para la característica de entrada X2 tienen un valor determinado, probablemente tendremos que realizar stratify sampling sobre esa característica de entrada para asegurarnos que de esos 20 ejemplos que tienen un valor determinado, una proporción de ellos se queda en el #Train_Set , otra en el #Validation_set y otra proporción en el #Test_Set 
+
+Esto es porque si hacemos una partición aleatoria es probable que esos 20 ejemplos queden en un sólo subconjunto o en 2 quizás, y es necesario particionarlos de manera que se distribuyan de manera regular en los 3 subconjuntos, sino no tendremos subconjuntos representativos del problema y tanto la validación como el entrenamiento no serían técnicas fiables.
 
 
 
