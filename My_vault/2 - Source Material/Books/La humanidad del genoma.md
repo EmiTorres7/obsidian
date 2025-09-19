@@ -1,8 +1,15 @@
 2025-09-15 10:21
 
 **Status:** #In_progress 
-**Tags:** #genoma #Book #transgén  #transgénico #Svante_Pääbo #genoma 
-[[4 - Indexes/RNA sequencing|RNA sequencing]]
+
+**Tags:** #genoma #Book #transgén  #transgénico #Svante_Pääbo #genoma #Alberto_Kornblihtt 
+
+**References:**
+[[4 - Indexes/RNA sequencing|RNA sequencing]] 
+[[Shinya Yamanaka]]
+[[The 5 core principles of Life]]
+
+---
 ## La humanidad del genoma: ADN, política y sociedad
 
 ###### *Autor:* #Alberto_Kornblihtt 
@@ -89,13 +96,22 @@ Decimos que **hubo evolución cuando se produjo un cambio** en las frecuencias d
 
 ---
 ###### **Selección Natural - Adaptación y adaptacionismo**
-[[#**Índice **]]
-[[The 5 core principles of Life]] -- #Darwin 
+[[#**Índice **]]  - **pág.52**
+[[The 5 core principles of Life]] -- #Darwin #6_minutes_English 
 
+La tendencia natural del pensamiento no entrenado ve a la adaptación como el motor de la selección y no como su resultado.
 
+>Nuestro pensamiento es más bien teleológico , y por lo tanto, no es más fácil asumir que el deseo o la necesidad de adaptarse al medio provocan la adaptación, antes que reconocer que la variabilidad que es seleccionada por el medio surgió de forma azarosa
 
+Así, el medio actúa más bien como un filtro, dando por resultado una población que está adaptada y no que se adaptó.
 
+Este pensamiento es lo que se llama **fantasía Lamarckiana** #Lamarck 
 
+>Si hay cucarachas en nuestra cocina, echamos veneno y mueren pero al cabo del tiempo aparecen nuevas, resistentes al insecticida.
+>
+>La **fantasía Lamarckiana** nos impulsa a pensar  que el insecticida provocó la mutación que hicieron resistentes a las cucarachas, pero la realidad es que las que ya eran genéticamente resistentes ya existían en el medio en bajo número en la población original.
+>
+>Al echar el producto, cambiamos el factor ambiental, así las que eran genéticamente sensibles murieron, y la mutación de la resistencia pasó a tener un valor adaptativo positivo en el ambiente con el insecticida, que fue el agente selector (actuó como un filtro), y no el provocador de la variabilidad. 
 
 ---
 ###### Página 78

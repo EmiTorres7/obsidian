@@ -7,9 +7,12 @@
 ## Theory of evolution: How did Darwin come up with it?
 
 ##### **References**
-**Book:** [[La humanidad del genoma]] #Alberto_Kornblihtt 
+**Book:** 
+- [[La humanidad del genoma]] #Alberto_Kornblihtt 
+- [[La humanidad del genoma#**Selección Natural - Adaptación y adaptacionismo**]]
 **Video**: [Theory of Evolution: How did Darwin come up with it? - BBC News](https://www.youtube.com/watch?v=JOk_0mUT_JU)
 **Video:** [The 5 core principles of Life](https://www.youtube.com/watch?v=5EwVBC3VsRA)
+**Shinya Yamanaka** [[Shinya Yamanaka]]
 
 ---
 Until the middle of the 19th century, people believed that all living creatures on the planet -including humans- were created by a divine force, such as God.
