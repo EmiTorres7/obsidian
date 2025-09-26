@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Books/Así habló Zaratustra.md",
+                "file": "2 - Source Material/Books/Rayuela.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Así habló Zaratustra"
+              "title": "Rayuela"
             }
           }
         ],
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,6 +186,10 @@
   },
   "active": "9cd1d00a728e63cb",
   "lastOpenFiles": [
+    "2 - Source Material/Polímatas famosos/Julio Cortázar.md",
+    "2 - Source Material/Books/Rayuela.md",
+    "2 - Source Material/Polímatas famosos/Jorge Luis Borges.md",
+    "2 - Source Material/Books/Así habló Zaratustra.md",
     "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML/Preparación del Conjunto de Datos.md",
     "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML/Visualización del conjunto de datos.md",
     "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML/Conjunto de Datos.md",
@@ -200,7 +203,6 @@
     "4 - Indexes/RNA sequencing.md",
     "1 - Rough Notes/curious facts/Soneto Ozymandias.md",
     "2 - Source Material/Books/Ficciones.md",
-    "2 - Source Material/Books/Así habló Zaratustra.md",
     "2 - Source Material/Polímatas famosos/Laplace.md",
     "6 - Main Notes/Untitled 1.base",
     "6 - Main Notes/2025-09-08.md",
@@ -213,9 +215,6 @@
     "2 - Source Material/Courses/CoderHouse/JS códigos.md",
     "2 - Source Material/Courses/RNA-seq/How to manipulate gene expression data.md",
     "6 - Main Notes/El Azar.md",
-    "6 - Main Notes/Berkeley, Hume.md",
-    "6 - Main Notes/Del Inmaculado conocimiento.md",
-    "4 - Indexes/CURSO MACHINE LEARNING.md",
     "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML",
     "2 - Source Material/Polímatas famosos",
     "2 - Source Material/Videos/Interesting Videos",
