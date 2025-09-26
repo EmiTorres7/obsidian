@@ -13,9 +13,11 @@
 
 Este descubrimiento revoluciona la medicina al **permitir la creación de células pluripotentes a partir de las células del propio paciente, sin usar embriones**, lo que evita problemas éticos y abre puertas a la medicina regenerativa, el modelado de enfermedades y la detección de fármacos
 
->Libro [[La humanidad del genoma]] lo menciona en el capítulo 7 "La guerra de los clones" en la página 93, donde cuenta que #Shinya_Yamanaka encontró un procedimiento de laboratorio eficiente y reproducible para transformar células adultas somáticas diferenciadas en células indiferenciadas (es decir que tienen el potencial de diferenciarse en cualquier tipo de tejido) similares a las células embrionarias.
+##### **Capítulo 7 "La guerra de los clones" en la página 93**
+>Libro [[La humanidad del genoma]] lo menciona en el **capítulo 7 "La guerra de los clones" en la página 93**, donde cuenta que #Shinya_Yamanaka encontró un procedimiento de laboratorio eficiente y reproducible para transformar células adultas somáticas diferenciadas en células indiferenciadas (es decir que tienen el potencial de diferenciarse en cualquier tipo de tejido) similares a las células embrionarias.
 >
 >Esto evitaría el uso de células de embriones humanos, ya que producidas por des-diferenciación en el laboratorio, son capaces de mantenerse en cultivos y de este modo, se las puede diferenciar nuevamente para obtener distintos tipos de tejido con potencial uso terapéutico.
+
 
 **¿Qué es la reprogramación celular de Yamanaka?**
 
