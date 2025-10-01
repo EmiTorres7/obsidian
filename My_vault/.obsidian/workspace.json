@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Books/Rayuela.md",
+                "file": "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML/Preparación del Conjunto de Datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rayuela"
+              "title": "Preparación del Conjunto de Datos"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "9cd1d00a728e63cb",
   "lastOpenFiles": [
-    "2 - Source Material/Polímatas famosos/Julio Cortázar.md",
     "2 - Source Material/Books/Rayuela.md",
+    "2 - Source Material/Polímatas famosos/Julio Cortázar.md",
     "2 - Source Material/Polímatas famosos/Jorge Luis Borges.md",
     "2 - Source Material/Books/Así habló Zaratustra.md",
     "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML/Preparación del Conjunto de Datos.md",
