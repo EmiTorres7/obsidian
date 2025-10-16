@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML/Preparación del Conjunto de Datos.md",
+                "file": "2 - Source Material/Courses/CoderHouse/SQL - MySQL/Introducción SQL - MySQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preparación del Conjunto de Datos"
+              "title": "Introducción SQL - MySQL"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Séneca",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,18 +184,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cd1d00a728e63cb",
+  "active": "1fb0a16fa53bfce3",
   "lastOpenFiles": [
+    "2 - Source Material/Courses/Machine Learning/Qué es Machine Learning.md",
+    "2 - Source Material/Courses/CoderHouse/SQL - MySQL/Introducción SQL - MySQL.md",
+    "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML/Preparación del Conjunto de Datos.md",
+    "2 - Source Material/Courses/CoderHouse/SQL - MySQL",
+    "2 - Source Material/Courses/CoderHouse/JavaScript",
     "2 - Source Material/Books/Rayuela.md",
     "2 - Source Material/Polímatas famosos/Julio Cortázar.md",
     "2 - Source Material/Polímatas famosos/Jorge Luis Borges.md",
     "2 - Source Material/Books/Así habló Zaratustra.md",
-    "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML/Preparación del Conjunto de Datos.md",
     "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML/Visualización del conjunto de datos.md",
     "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML/Conjunto de Datos.md",
     "2 - Source Material/Courses/Machine Learning/Clasificación y Ciberseguridad.md",
     "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML/División del conjunto de Datos.md",
-    "2 - Source Material/Courses/Machine Learning/Qué es Machine Learning.md",
     "2 - Source Material/Books/La humanidad del genoma.md",
     "1 - Rough Notes/curious facts/The 5 core principles of Life.md",
     "2 - Source Material/Polímatas famosos/Shinya Yamanaka.md",
@@ -207,21 +210,18 @@
     "6 - Main Notes/Untitled 1.base",
     "6 - Main Notes/2025-09-08.md",
     "6 - Main Notes/Untitled.base",
-    "2 - Source Material/Courses/CoderHouse/Asincronismo.md",
+    "2 - Source Material/Courses/CoderHouse/JavaScript/Asincronismo.md",
     "Pasted image 20250820224323.png",
-    "2 - Source Material/Courses/CoderHouse/NODE JS.md",
-    "2 - Source Material/Courses/CoderHouse/Java Script.md",
+    "2 - Source Material/Courses/CoderHouse/JavaScript/NODE JS.md",
+    "2 - Source Material/Courses/CoderHouse/JavaScript/Java Script.md",
     "1 - Rough Notes/curious facts/The Tao of Seneca.md",
-    "2 - Source Material/Courses/CoderHouse/JS códigos.md",
+    "2 - Source Material/Courses/CoderHouse/JavaScript/JS códigos.md",
     "2 - Source Material/Courses/RNA-seq/How to manipulate gene expression data.md",
-    "6 - Main Notes/El Azar.md",
     "2 - Source Material/Courses/Machine Learning/Creación de Proyecto de ML",
     "2 - Source Material/Polímatas famosos",
     "2 - Source Material/Videos/Interesting Videos",
     "2 - Source Material/Courses/Machine Learning",
     "2 - Source Material/Courses/CoderHouse",
-    "Untitled",
-    "2 - Source Material/Podcasts/6 minutes English",
-    "2 - Source Material/Videos/Six minutes English"
+    "Untitled"
   ]
 }
