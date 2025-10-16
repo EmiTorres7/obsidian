@@ -15,15 +15,26 @@
 ---
 ## 🚀 ¿Qué es Node.js?
 
->**Node.js** es un **entorno de ejecución** que permite correr código JavaScript **fuera del navegador**, es decir, en el **servidor**.
+>**Node.js** es un **entorno de ejecución** para JS, o sea que permite correr código JavaScript **fuera del navegador**, es decir, en el **servidor**.
 
-🔧 Fue creado sobre el motor **V8** de Google Chrome (el mismo que interpreta JavaScript en el navegador), pero adaptado para usarse en computadoras o servidores.
+🔧 Fue creado sobre el motor **V8** de Google Chrome (el mismo que interpreta JavaScript en el navegador), pero adaptado para usarse en computadoras o servidores. Es decir, que puede ser ejecutado por la CPU sin necesidad de un navegador.
 
->**Es JavaScript pero para Backend**, o sea es una versión de JS que no necesita tener un navegador para ser interpretado, sino que lo vana  interpretar directamente los servidores de Backend.
+Antes de #NodeJS, JS sólo podía ser ejecutado dentro de un navegador, limitando su uso sólo a la creación de aplicaciones  web del lado del cliente.
+
+>**Es JavaScript pero para Backend**, o sea es una versión de JS que no necesita tener un navegador para ser interpretado, sino que lo van a interpretar directamente los servidores de Backend.
+
+>Así podemos utilizar JS del lado del servidor, acceder a archivos y otras tareas que requerían lenguajes como Python. Por lo que esto permitió poder usar JS tanto para el frontend como para el backend.
 
 Necesito esta herramienta para ejecutar código de React por ejemplo.
 
->De Node JS usamos **npm (Node Manager Package)**, administrador de paquetes de Node, esta herramienta lo que hace es descargar paquetes de internet e instalarlo en mi proyecto. Así me permite instalar y administrar los paquetes de Node.
+###### **NPM (Node Package Manager)**
+>De #NodeJS usamos **npm (Node Package Manager)**, administrador/gestor de paquetes de Node JS, esta herramienta lo que hace es descargar paquetes de internet e instalarlo en mi proyecto. Así me permite instalar y administrar los paquetes de Node.
+
+>Nos permite instalar, actualizar y eliminar módulos y librerías que son necesarias para el funcionamiento de una aplicación. Todos los módulos instalados con NPM se almacenan en la carpeta node_modules del proyecto.
+
+>También crea el archivo *package.json* que contiene toda la información sobre el proyecto como el nombre, la versión, las dependencias, scripts que pueden ser ejecutados.
+
+
 
  **🧠 ¿Para qué se usa?**
 
