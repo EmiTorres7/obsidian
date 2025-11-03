@@ -30,9 +30,10 @@ Las tablas guardan información específica de algo.
 
 >El **esquema de una tabla** define su estructura y especifica qué columnas contiene y qué tipo de datos se pueden almacenar.
 
-En una **base de datos plana**, podríamos tener una única tabla donde cada fila contiene toda la información del cliente y los detalles de la compra, repitiendo así la información del cliente para cada compra. Sin embargo, esto no es eficiente ya que genera redundancia de datos.
+- En una **base de datos plana**, podríamos tener una única tabla donde cada fila contiene toda la información del cliente y los detalles de la compra, repitiendo así la información del cliente para cada compra. Sin embargo, esto no es eficiente ya que genera redundancia de datos. Por ejemplo, una tabla en Excel, donde tenemos mucha redundancia
 
-En una **base de datos relacional**, la información se normaliza y se divide en múltiples tablas, como una tabla para clientes y otra para compras. Cada tabla tiene un propósito específico, y las relaciones entre estas tablas se establecen a través de claves primarias y foráneas.
+- En una **base de datos relacional**, la información se normaliza y se divide en múltiples tablas, como una tabla para clientes y otra para compras. Cada tabla tiene un propósito específico, y las relaciones entre estas tablas se establecen a través de claves primarias y foráneas.
+Aquí se hace una normalización porque tenemos muchas tablas que se relacionan y por ejemplo tendremos una tabla de comprar y otra de proveedores, entonces en la tabla de compras tendremos una columna proveedores y las filas estarán dados por valores que serían los id_provedor que con una clave foránea nos la va a relacionar con la tabla proveedores donde por el id_provedor podremos ver en detalle los datos de esos proveedores, pero en otra tabla; de esta manera tenemos todo más organizado. Así con estos identificadores accedemos a la información de ese proveedor pero en otra tabla.
 
 >Las bases de datos continúan evolucionando, adaptándose a nuevas tecnologías y necesidades, como el análisis de grandes volúmenes de datos **(big data)**, el aprendizaje automático **( #machine_learning)**, y el **Internet de las Cosas (IoT)**.
 
